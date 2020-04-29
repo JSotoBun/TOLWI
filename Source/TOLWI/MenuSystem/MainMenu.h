@@ -18,6 +18,7 @@ protected:
 
 	virtual bool Initialize();
 
+
 private:
 
 	UPROPERTY(meta = (BindWidget))
@@ -29,5 +30,4 @@ private:
 	UFUNCTION()
 	void HostServer();
 
-	IMenuInterface* MenuInterface;
 };

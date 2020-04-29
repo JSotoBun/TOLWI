@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "MenuInterface.h"
+
 #include "MenuWidget.generated.h"
 
 /**
@@ -15,11 +16,12 @@ class TOLWI_API UMenuWidget : public UUserWidget
 {
 	GENERATED_BODY()
 
+
 public:
 	void Setup();
 	void Teardown();
 
-	void SetMenuInterface(IMenuInterface* MenuInterface);
+	void SetMenuInterface(IMenuInterface* AMenuInterface);
 
 protected:
 	IMenuInterface* MenuInterface;
