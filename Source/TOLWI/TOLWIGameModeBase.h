@@ -9,9 +9,11 @@
 /**
  * 
  */
-UCLASS()
-class TOLWI_API ATOLWIGameModeBase : public AGameModeBase
+UCLASS(minimalapi)
+class ATOLWIGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	ATOLWIGameModeBase();
 };
