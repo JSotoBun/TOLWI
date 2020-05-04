@@ -12,7 +12,7 @@ struct FServerData
 {
 	GENERATED_BODY()
 
-		FString Name;
+	FString Name;
 	uint16 CurrentPlayers;
 	uint16 MaxPlayers;
 	FString HostUsername;
@@ -45,14 +45,65 @@ private:
 	TSubclassOf<class UUserWidget> ServerRowClass;
 
 	UPROPERTY(meta = (BindWidget))
-	class UButton* HostButton;
+		class UButton* HostButton;
 
 	UPROPERTY(meta = (BindWidget))
-	class UButton* JoinButton;
+		class UButton* JoinButton;
 
+	UPROPERTY(meta = (BindWidget))
+		class UButton* QuitButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* CancelJoinMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* ConfirmJoinMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidgetSwitcher* MenuSwitcher;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidget* MainMenu;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidget* JoinMenu;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidget* HostMenu;
+
+	UPROPERTY(meta = (BindWidget))
+		class UEditableTextBox* ServerHostName;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* CancelHostMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* ConfirmHostMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UPanelWidget* ServerList;
+
+	UFUNCTION()
+		void HostServer();
+
+	UFUNCTION()
+		void JoinServer();
 
 
 	UFUNCTION()
-	void HostServer();
+		void OpenHostMenu();
+
+	UFUNCTION()
+		void OpenJoinMenu();
+
+	UFUNCTION()
+		void OpenMainMenu();
+
+	UFUNCTION()
+		void QuitPressed();
+
+	TOptional<uint32> SelectedIndex;
+
+	void UpdateChildren();
 
 };
