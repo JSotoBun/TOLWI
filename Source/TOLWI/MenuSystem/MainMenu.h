@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "MenuInterface.h"
+#include "MenuWidget.h"
 #include "MainMenu.generated.h"
 
 
@@ -24,80 +24,87 @@ struct FServerData
  * 
  */
 UCLASS()
-class TOLWI_API UMainMenu : public UUserWidget
+class TOLWI_API UMainMenu : public UMenuWidget
 {
 	GENERATED_BODY()
 
 
 public:
+	UMainMenu(const FObjectInitializer &ObjectInitializer);
 
-	void Setup(IMenuInterface* ServerMenuInterface);
+	void SetServerList(TArray<FServerData> ServerNames);
 
-	void Teardown();
+	void SelectIndex(uint32 Index);
 
 protected:
 
 	virtual bool Initialize() override;
 
 
-protected:
-	IMenuInterface* ServerMenuInterface;
+private:
+	TSubclassOf<class UUserWidget> ServerRowClass;
 
-protected:
-
-	//Menus
-	UPROPERTY(meta = (BindWidget))
-		class UWidgetSwitcher* MenuSwitcher;
-
-
-	UPROPERTY(meta = (BindWidget))
-		class UWidget* MainMenu;
-
-	// Link to buttons
 	UPROPERTY(meta = (BindWidget))
 		class UButton* HostButton;
-
-	UFUNCTION()
-		void OnHostButtonPressed();
 
 	UPROPERTY(meta = (BindWidget))
 		class UButton* JoinButton;
 
-	UFUNCTION()
-		void OnJoinButtonPressed();
+	UPROPERTY(meta = (BindWidget))
+		class UButton* QuitButton;
 
-	//// JOIN SESSIONS ///////
-protected:
+	UPROPERTY(meta = (BindWidget))
+		class UButton* CancelJoinMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* ConfirmJoinMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidgetSwitcher* MenuSwitcher;
+
+	UPROPERTY(meta = (BindWidget))
+		class UWidget* MainMenu;
 
 	UPROPERTY(meta = (BindWidget))
 		class UWidget* JoinMenu;
 
 	UPROPERTY(meta = (BindWidget))
+		class UWidget* HostMenu;
+
+	UPROPERTY(meta = (BindWidget))
+		class UEditableTextBox* ServerHostName;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* CancelHostMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
+		class UButton* ConfirmHostMenuButton;
+
+	UPROPERTY(meta = (BindWidget))
 		class UPanelWidget* ServerList;
 
-	UPROPERTY(EditAnywhere)
-	TSubclassOf<class UServerRow> ServerRowClass;
-	TOptional<uint32> SelectedScrollIndex;
-
-
-	//buttons
-
-	UPROPERTY(meta = (BindWidget))
-		class UButton* CancelJoinMenuButton;
+	UFUNCTION()
+		void HostServer();
 
 	UFUNCTION()
-		void onCancelJoinServer();
+		void JoinServer();
 
-	UPROPERTY(meta = (BindWidget))
-		class UButton* ConfirmJoinMenuButton;
 
 	UFUNCTION()
-		void onJoinSelectedServer();
+		void OpenHostMenu();
 
-public:
-	void InitialiseServerList(TArray<FServerData> Data);
-	void SelectIndexServerList(uint32 Index);
-	void UpdateServerList();
+	UFUNCTION()
+		void OpenJoinMenu();
+
+	UFUNCTION()
+		void OpenMainMenu();
+
+	UFUNCTION()
+		void QuitPressed();
+
+	TOptional<uint32> SelectedIndex;
+
+	void UpdateChildren();
 
 
 };

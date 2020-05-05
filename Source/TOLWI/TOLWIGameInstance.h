@@ -25,52 +25,34 @@ public:
 	virtual void Init();
 
 	UFUNCTION(BlueprintCallable)
-	void LoadMenu();
+	void LoadMenuWidget();
 
-	//UFUNCTION(Exec)
-	//void Host(FString ServerName) override;
+	UFUNCTION(Exec)
+	void Host(FString ServerName) override;
 
-	//UFUNCTION(Exec)
-	//void Join(uint32 Index) override;
+	UFUNCTION(Exec)
+	void Join(uint32 Index) override;
 
-	//void StartSession();
+	void StartSession();
 
-	//virtual void LoadMainMenu() override;
+	virtual void LoadMainMenu() override;
 
-	//void RefreshServerList() override;
-
-private:
-
-	//Session
-	IOnlineSessionPtr SessionInterface;
-	TSharedPtr<class FOnlineSessionSearch> SessionSearch;
-
-
-public:
-	UFUNCTION()
-		void Host(FString ServerName) override;
-
-	UFUNCTION()
-		void JoinSession(uint32 Index) override;
-
-	UFUNCTION()
-		void EndSession() override;
-
-	UFUNCTION()
-		void OpenServerListMenu() override;
+	void RefreshServerList() override;
 
 private:
 	TSubclassOf<class UUserWidget> MenuClass;
+
 	class UMainMenu* Menu;
 
-
-private:
-	//Session Events
-	FString DesiredServerName;
+	IOnlineSessionPtr SessionInterface;
+	TSharedPtr<class FOnlineSessionSearch> SessionSearch;
 
 	void OnCreateSessionComplete(FName SessionName, bool Success);
 	void OnDestroySessionComplete(FName SessionName, bool Success);
 	void OnFindSessionsComplete(bool Success);
 	void OnJoinSessionComplete(FName SessionName, EOnJoinSessionCompleteResult::Type Result);
+
+	FString DesiredServerName;
 	void CreateSession();
+	
 };

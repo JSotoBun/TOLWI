@@ -21,7 +21,7 @@ public:
 	void Setup();
 	void Teardown();
 
-	void SetMenuInterface(IMenuInterface* AMenuInterface);
+	void SetMenuInterface(IMenuInterface* MenuInterface);
 
 protected:
 	IMenuInterface* MenuInterface;

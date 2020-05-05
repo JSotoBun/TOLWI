@@ -36,9 +36,9 @@ private:
 		class UButton* RowButton;
 
 	UPROPERTY()
-	class UMainMenu* Parent;
+		class UMainMenu* Parent;
 
-	uint32 Index = -1;
+	uint32 Index;
 
 	UFUNCTION()
 		void OnClicked();

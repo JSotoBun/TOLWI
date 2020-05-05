@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "UObject/Interface.h"
+//#include "UObject/Interface.h"
 #include "MenuInterface.generated.h"
 
 // This class does not need to be modified.
@@ -24,9 +24,7 @@ class TOLWI_API IMenuInterface
 public:
 	virtual void Host(FString ServerName) = 0;
 
-	virtual void JoinSession(uint32 Index) = 0;
-
-	virtual void EndSession() = 0;
-
-	virtual void OpenServerListMenu() = 0;
+	virtual void Join(uint32 Index) = 0;
+	virtual void LoadMainMenu() = 0;
+	virtual void RefreshServerList() = 0;
 };
