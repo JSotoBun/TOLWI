@@ -2,16 +2,22 @@
 
 #pragma once
 
+#include "OnlineIdentityInterface.h"
+#include "TOLWIPlayerController.h"
 #include "CoreMinimal.h"
 #include "GameFramework/GameMode.h"
 #include "TOLWIGameMode.generated.h"
 
+
 /**
  * 
  */
-UCLASS()
+UCLASS(config=Game)
 class TOLWI_API ATOLWIGameMode : public AGameMode
 {
 	GENERATED_BODY()
+public:
+
 	
+	ATOLWIGameMode();
 };

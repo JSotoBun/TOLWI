@@ -15,5 +15,7 @@ class ATOLWIGameModeBase : public AGameModeBase
 	GENERATED_BODY()
 	
 public:
+
 	ATOLWIGameModeBase();
+
 };

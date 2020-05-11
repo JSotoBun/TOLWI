@@ -5,13 +5,21 @@
 #include "BigCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
+
 ATOLWIGameModeBase::ATOLWIGameModeBase()
 {
+	//set default pawn class to our Blueprinted character
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/Characters/BigCharacter"));
-
 	if (PlayerPawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 
-}
+	
+	static ConstructorHelpers::FClassFinder<APawn> Player2PawnBPClass(TEXT("/Game/Characters/SmallCharacter"));
+	if (Player2PawnBPClass.Class != NULL)
+	{
+		DefaultPawnClass = Player2PawnBPClass.Class;
+	}
+};
+

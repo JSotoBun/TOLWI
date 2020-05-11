@@ -32,7 +32,7 @@ void UTOLWIGameInstance::Init()
 		SessionInterface = Subsystem->GetSessionInterface();
 		if (SessionInterface.IsValid()) {
 			SessionInterface->OnCreateSessionCompleteDelegates.AddUObject(this, &UTOLWIGameInstance::OnCreateSessionComplete);
-			SessionInterface->OnDestroySessionCompleteDelegates.AddUObject(this, &UTOLWIGameInstance::OnDestroySessionComplete);
+			SessionInterface->OnDestroySessionCompleteDelegates.AddUObject(this, &UTOLWIGameInstance::OnCreateSessionComplete);
 			SessionInterface->OnFindSessionsCompleteDelegates.AddUObject(this, &UTOLWIGameInstance::OnFindSessionsComplete);
 			SessionInterface->OnJoinSessionCompleteDelegates.AddUObject(this, &UTOLWIGameInstance::OnJoinSessionComplete);
 		}
