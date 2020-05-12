@@ -13,5 +13,10 @@ UCLASS()
 class TOLWI_API ATOLWIPlayerController : public APlayerController
 {
 	GENERATED_BODY()
-	
+
+
+public:
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "Player Controller")
+		void OnSpringLevelCompleted(APawn* InstigatorPawn);
 };

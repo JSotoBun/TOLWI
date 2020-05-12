@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Interact.h"
 #include "GameFramework/Character.h"
 #include "SmallCharacter.generated.h"
 

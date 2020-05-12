@@ -3,11 +3,13 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Interact.h"
+#include "BasicInteractive.h"
 #include "GameFramework/Character.h"
 #include "BigCharacter.generated.h"
 
 UCLASS(config=Game)
-class TOLWI_API ABigCharacter : public ACharacter
+class TOLWI_API ABigCharacter : public ACharacter, public IInteract
 {
 	GENERATED_BODY()
 		/** Camera boom positioning the camera behind the character */
@@ -27,6 +29,8 @@ public:
 	/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
 		float BaseLookUpRate;
+
+	void HandleInteractInput();
 
 protected:
 
@@ -59,6 +63,14 @@ public:
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
 
-	
+public:
 
+	//// INTERFACE IInteract IMPLEMENTATION ////////////////////
+	virtual void NotifyInInteractRange(AActor* Interactive) override;
+
+	virtual void NotifyLeaveInteractRange(AActor* Interactive) override;
+	
+protected:
+
+	class ABasicInteractive* CurrentInteractive;
 };

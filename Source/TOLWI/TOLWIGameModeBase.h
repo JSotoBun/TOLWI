@@ -18,4 +18,8 @@ public:
 
 	ATOLWIGameModeBase();
 
+
+public:
+
+	void CompletedSpringLevel(APawn* InstigatorPawn, bool bSuccess);
 };

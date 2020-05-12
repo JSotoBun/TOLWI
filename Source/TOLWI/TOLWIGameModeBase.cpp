@@ -3,6 +3,8 @@
 
 #include "TOLWIGameModeBase.h"
 #include "BigCharacter.h"
+#include "SmallCharacter.h"
+#include "TOLWIGameState.h"
 #include "UObject/ConstructorHelpers.h"
 
 
@@ -15,11 +17,26 @@ ATOLWIGameModeBase::ATOLWIGameModeBase()
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 
-	
+	/*
 	static ConstructorHelpers::FClassFinder<APawn> Player2PawnBPClass(TEXT("/Game/Characters/SmallCharacter"));
 	if (Player2PawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = Player2PawnBPClass.Class;
 	}
+	*/
+	
 };
 
+void ATOLWIGameModeBase::CompletedSpringLevel(APawn * InstigatorPawn, bool bSuccess)
+{
+	if (InstigatorPawn == nullptr) return;
+
+	ATOLWIGameState* GameState = GetGameState<ATOLWIGameState>();
+
+	if (GameState != nullptr)
+	{
+
+		//call multicast
+		GameState->MulticastOnSpringPortal(InstigatorPawn);
+	}
+}

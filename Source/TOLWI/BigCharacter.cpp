@@ -2,6 +2,8 @@
 
 
 #include "BigCharacter.h"
+
+#include "Interact.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
@@ -46,6 +48,8 @@ ABigCharacter::ABigCharacter()
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
 
 }
+
+
 
 void ABigCharacter::MoveForward(float Value)
 {
@@ -110,5 +114,38 @@ void ABigCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInput
 	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 	PlayerInputComponent->BindAxis("LookUpRate", this, &ABigCharacter::LookUpAtRate);
 
+	PlayerInputComponent->BindAction("Interact", IE_Pressed, this, &ABigCharacter::HandleInteractInput);
+}
+
+void ABigCharacter::HandleInteractInput()
+{
+	if (IsLocallyControlled() && (CurrentInteractive != nullptr))
+	{
+		//UE_LOG(LogTemp, Warning, TEXT("ACoopPuzzleGameCharacter::HandleInteractInput Calling StartInteract"));
+		CurrentInteractive->StartInteracting(this);
+	}
+}
+void ABigCharacter::NotifyInInteractRange(AActor * Interactive)
+{
+	if (IsLocallyControlled())
+	{
+		// Keeps the Interactive reference
+		if ((Interactive != nullptr) && (CurrentInteractive == nullptr))
+		{
+			CurrentInteractive = Cast<ABasicInteractive>(Interactive);
+		}
+	}
+}
+
+void ABigCharacter::NotifyLeaveInteractRange(AActor * Interactive)
+{
+	if (IsLocallyControlled())
+	{
+		// Release the Interactive reference
+		if (CurrentInteractive != nullptr)
+		{
+			CurrentInteractive = nullptr;
+		}
+	}
 }
 
