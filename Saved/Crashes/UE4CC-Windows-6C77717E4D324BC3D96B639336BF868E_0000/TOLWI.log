@@ -1,0 +1,1343 @@
+﻿Log file open, 05/04/20 17:45:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TOLWI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063573
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.46
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.04-05.45.41:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.04-05.45.41:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:600][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.04-05.45.41:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.04-05.45.41:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.04-05.45.41:605][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.04-05.45.41:605][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.04-05.45.41:607][  0]LogHAL: Display: Platform has ~ 64 GB [68592717824 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.04-05.45.41:607][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.04-05.45.41:607][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.04-05.45.41:607][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.04-05.45.41:608][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.04-05.45.41:609][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.04-05.45.41:609][  0]LogInit: Computer: DESKTOP-FC7SNQS
+[2020.05.04-05.45.41:609][  0]LogInit: User: JeremyB
+[2020.05.04-05.45.41:609][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.04-05.45.41:609][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.04-05.45.41:609][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.05.04-05.45.41:609][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.04-05.45.41:609][  0]LogMemory: Process Physical Memory: 107.16 MB used, 107.16 MB peak
+[2020.05.04-05.45.41:609][  0]LogMemory: Process Virtual Memory: 102.67 MB used, 102.67 MB peak
+[2020.05.04-05.45.41:609][  0]LogMemory: Physical Memory: 12781.86 MB used,  52633.25 MB free, 65415.11 MB total
+[2020.05.04-05.45.41:609][  0]LogMemory: Virtual Memory: 5180.77 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.05.04-05.45.41:685][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.04-05.45.41:725][  0]LogInit: Using OS detected language (en-US).
+[2020.05.04-05.45.41:725][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.04-05.45.41:727][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.04-05.45.41:883][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.04-05.45.41:938][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.04-05.45.41:938][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.04-05.45.42:089][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.04-05.45.42:089][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.04-05.45.42:089][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.04-05.45.42:089][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.04-05.45.42:181][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.04-05.45.42:181][  0]LogD3D11RHI:       8079/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.04-05.45.42:185][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.04-05.45.42:185][  0]LogD3D11RHI:       0/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.04-05.45.42:185][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.04-05.45.42:200][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.04-05.45.42:201][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.04-05.45.42:201][  0]LogWindows: EnumDisplayDevices:
+[2020.05.04-05.45.42:201][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.04-05.45.42:202][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-05.45.42:202][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-05.45.42:202][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-05.45.42:202][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.04-05.45.42:202][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.04-05.45.42:202][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.04-05.45.42:202][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.04-05.45.42:202][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.04-05.45.42:264][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.04-05.45.42:265][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.04-05.45.42:282][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.04-05.45.42:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.04-05.45.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.04-05.45.42:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.04-05.45.42:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.04-05.45.42:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.04-05.45.42:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.04-05.45.42:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.04-05.45.42:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.04-05.45.42:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.04-05.45.42:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.04-05.45.42:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.04-05.45.42:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.04-05.45.42:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.04-05.45.42:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.04-05.45.42:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.04-05.45.42:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.04-05.45.42:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.04-05.45.42:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.04-05.45.42:722][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.04-05.45.42:724][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.04-05.45.42:759][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (../../../../TOLWI/Intermediate/Shaders/WorkingDirectory/15580/).
+[2020.05.04-05.45.42:759][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy B/AppData/Local/Temp/UnrealShaderWorkingDir/918823BC4D6BE4C76B8A188702BB4906/'.
+[2020.05.04-05.45.42:760][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.04-05.45.42:760][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.04-05.45.42:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.04-05.45.43:299][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: Loaded boot cache 0.06s 88MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../TOLWI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../TOLWI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.04-05.45.43:356][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.04-05.45.43:364][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.04-05.45.43:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.04-05.45.43:364][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.04-05.45.43:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy B/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.04-05.45.43:365][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.04-05.45.43:365][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.04-05.45.43:385][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.04-05.45.43:387][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.04-05.45.43:387][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.04-05.45.43:432][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.05.04-05.45.43:660][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.04-05.45.43:768][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.04-05.45.43:768][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.04-05.45.43:768][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.04-05.45.43:768][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.04-05.45.43:768][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.04-05.45.43:793][  0]LogNetVersion: TOLWI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 138115532)
+[2020.05.04-05.45.44:776][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.064669 seconds
+[2020.05.04-05.45.44:785][  0]LogUObjectArray: 46759 objects as part of root set at end of initial load.
+[2020.05.04-05.45.44:785][  0]LogUObjectAllocator: 8148360 out of 0 bytes used by permanent object pool.
+[2020.05.04-05.45.44:785][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.04-05.45.45:077][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.04-05.45.45:080][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.04-05.45.45:234][  0]SourceControl: Source control is disabled
+[2020.05.04-05.45.45:689][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.04-05.45.45:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.04-05.45.45:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.04-05.45.45:763][  0]LogOcInput: OculusInput pre-init called
+[2020.05.04-05.45.45:769][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.04-05.45.45:769][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.04-05.45.45:828][  0]LogEngine: Initializing Engine...
+[2020.05.04-05.45.45:829][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.04-05.45.45:830][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.04-05.45.46:097][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.04-05.45.46:104][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-05.45.46:109][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-05.45.46:109][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-05.45.46:110][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-05.45.46:110][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.04-05.45.46:217][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.04-05.45.46:422][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.05.04-05.45.46:424][  0]LogInit: FAudioDevice initialized.
+[2020.05.04-05.45.46:424][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.04-05.45.46:535][  0]LogDerivedDataCache: Saved boot cache 0.11s 88MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.04-05.45.46:547][  0]LogInit: Texture streaming: Enabled
+[2020.05.04-05.45.46:556][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.04-05.45.46:556][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.04-05.45.46:558][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.04-05.45.46:616][  0]LogInit: Transaction tracking system initialized
+[2020.05.04-05.45.46:623][  0]BlueprintLog: New page: Editor Load
+[2020.05.04-05.45.46:648][  0]LocalizationService: Localization service is disabled
+[2020.05.04-05.45.46:838][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/' took 0.01s
+[2020.05.04-05.45.46:838][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.04-05.45.46:838][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.04-05.45.47:400][  0]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.04-05.45.47:400][  0]LightingResults: New page: Lighting Build
+[2020.05.04-05.45.47:401][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.45.47:401][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.45.47:401][  0]MapCheck: New page: Map Check
+[2020.05.04-05.45.47:401][  0]LightingResults: New page: Lighting Build
+[2020.05.04-05.45.47:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.05.04-05.45.47:453][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.04-05.45.47:454][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.04-05.45.47:490][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.04-05.45.47:490][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.04-05.45.47:490][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.05.04-05.45.47:490][  0]LogFileHelpers: Loading map 'MainMenu' took 0.091
+[2020.05.04-05.45.47:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-05.45.47:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-05.45.47:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-05.45.47:649][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-05.45.47:652][  0]LogCollectionManager: Loaded 0 collections in 0.000735 seconds
+[2020.05.04-05.45.47:664][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Saved/Collections/' took 0.00s
+[2020.05.04-05.45.47:664][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Developers/JeremyB/Collections/' took 0.00s
+[2020.05.04-05.45.47:664][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Collections/' took 0.00s
+[2020.05.04-05.45.47:664][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3027 classes and 724 folders.
+[2020.05.04-05.45.47:666][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.04-05.45.47:724][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.04-05.45.47:728][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.04-05.45.47:810][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.04-05.45.47:811][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.04-05.45.47:814][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.04-05.45.47:866][  0]LogRenderer: Reallocating scene render targets to support 1348x864 Format 10 NumSamples 1 (Frame:1).
+[2020.05.04-05.45.47:972][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.04-05.45.47:972][  0]LogLoad: (Engine Initialization) Total time: 7.70 seconds
+[2020.05.04-05.45.47:972][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.04-05.45.48:006][  0]LogAssetRegistry: Asset discovery search completed in 4.5765 seconds
+[2020.05.04-05.45.48:009][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.05.04-05.45.48:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.04-05.46.04:040][893]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.05.04-05.46.04:043][893]Candidate modules for hot reload:
+[2020.05.04-05.46.04:043][893]  TOLWI
+[2020.05.04-05.46.04:043][893]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,869 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.04-05.46.04:044][893]Warning: Starting HotReload took  0.0s.
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: New page: Compilation - 5/05/2020, 5:46:16 am
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Creating makefile for TOLWIEditor (no existing makefile)
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.0855993 seconds
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.04-05.46.16:573][324]CompilerResultsLog: Building 8 actions with 16 processes...
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   [1/8] TOLWIGameInstance.gen.cpp
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   [2/8] ServerRow.gen.cpp
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/MenuSystem/ServerRow.h(47) : error C2059: syntax error: '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/MenuSystem/ServerRow.h(47) : error C2143: syntax error: missing ';' before '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   [3/8] ServerRow.cpp
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    d:\tolwi\source\tolwi\menusystem\ServerRow.h(47) : error C2059: syntax error: '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    d:\tolwi\source\tolwi\menusystem\ServerRow.h(47) : error C2143: syntax error: missing ';' before '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   [4/8] MainMenu.cpp
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    d:\tolwi\source\tolwi\menusystem\ServerRow.h(47) : error C2059: syntax error: '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:    d:\tolwi\source\tolwi\menusystem\ServerRow.h(47) : error C2143: syntax error: missing ';' before '}'
+[2020.05.04-05.46.16:573][324]CompilerResultsLog:   [5/8] TOLWIGameInstance.cpp
+[2020.05.04-05.46.16:573][324]LogMainFrame: MainFrame: Module compiling took 12.533 seconds
+[2020.05.04-05.46.16:573][324]Warning: HotReload failed, recompile failed
+[2020.05.04-05.46.50:630][432]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-05.46.50:632][432]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-05.46.53:856][768]Candidate modules for hot reload:
+[2020.05.04-05.46.53:856][768]  TOLWI
+[2020.05.04-05.46.53:856][768]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,3537 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.04-05.46.53:858][768]Warning: Starting HotReload took  0.4s.
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: New page: Compilation - 5/05/2020, 5:47:07 am
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.6658173 seconds
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.04-05.47.07:014][238]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   [1/6] ServerRow.gen.cpp
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   [2/6] ServerRow.cpp
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   [3/6] MainMenu.cpp
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   [4/6] UE4Editor-TOLWI-3537.lib
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3537.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3537.exp
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:   [5/6] UE4Editor-TOLWI-3537.dll
+[2020.05.04-05.47.07:014][238]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3537.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3537.suppressed.exp
+[2020.05.04-05.47.07:015][238]CompilerResultsLog:   [6/6] TOLWIEditor.target
+[2020.05.04-05.47.07:015][238]CompilerResultsLog: Total time in Parallel executor: 6.42 seconds
+[2020.05.04-05.47.07:015][238]CompilerResultsLog: Total execution time: 13.07 seconds
+[2020.05.04-05.47.07:015][238]LogMainFrame: MainFrame: Module compiling took 13.163 seconds
+[2020.05.04-05.47.07:047][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.04-05.47.07:066][238]LogClass: Could not find existing class MainMenu in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.04-05.47.07:068][238]LogClass: Function HostServer is new.
+[2020.05.04-05.47.07:068][238]LogClass: Function JoinServer is new.
+[2020.05.04-05.47.07:068][238]LogClass: Function OpenHostMenu is new.
+[2020.05.04-05.47.07:068][238]LogClass: Function OpenJoinMenu is new.
+[2020.05.04-05.47.07:068][238]LogClass: Function OpenMainMenu is new.
+[2020.05.04-05.47.07:068][238]LogClass: Function QuitPressed is new.
+[2020.05.04-05.47.07:071][238]LogClass: Could not find existing class ServerRow in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.04-05.47.07:071][238]LogClass: Function OnClicked is new.
+[2020.05.04-05.47.07:072][238]LogClass: Could not find existing class TOLWIGameInstance in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.04-05.47.07:072][238]LogClass: Function Host is new.
+[2020.05.04-05.47.07:072][238]LogClass: Function Join is new.
+[2020.05.04-05.47.07:072][238]LogClass: Function LoadMenu is new.
+[2020.05.04-05.47.07:075][238]LogClass: Could not find existing type ServerData for HotReload. Assuming new
+[2020.05.04-05.47.07:083][238]LogHotReload: Re-instancing MainMenu after hot-reload.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:084][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.47.07:086][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.47.07:179][238]LogHotReload: Re-instancing TOLWIGameInstance after hot-reload.
+[2020.05.04-05.47.07:261][238]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 10 classes and 3 folders.
+[2020.05.04-05.47.07:265][238]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.05.04-05.47.07:348][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.04-05.47.07:360][238]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3030 classes and 727 folders.
+[2020.05.04-05.47.07:360][238]Display: HotReload took 13.9s.
+[2020.05.04-05.47.44:656][695]Candidate modules for hot reload:
+[2020.05.04-05.47.44:656][695]  TOLWI
+[2020.05.04-05.47.44:656][695]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,8673 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.04-05.47.44:658][695]Warning: Starting HotReload took  0.0s.
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: New page: Compilation - 5/05/2020, 5:47:47 am
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.05.04-05.47.47:237][956]CompilerResultsLog:   [1/3] UE4Editor-TOLWI-8673.lib
+[2020.05.04-05.47.47:237][956]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-8673.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-8673.exp
+[2020.05.04-05.47.47:237][956]CompilerResultsLog:   [2/3] UE4Editor-TOLWI-8673.dll
+[2020.05.04-05.47.47:237][956]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-8673.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-8673.suppressed.exp
+[2020.05.04-05.47.47:237][956]CompilerResultsLog:   [3/3] TOLWIEditor.target
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Total time in Parallel executor: 1.59 seconds
+[2020.05.04-05.47.47:237][956]CompilerResultsLog: Total execution time: 2.47 seconds
+[2020.05.04-05.47.47:237][956]LogMainFrame: MainFrame: Module compiling took 2.584 seconds
+[2020.05.04-05.47.47:270][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.04-05.47.47:299][956]LogClass: ServerData HotReload.
+[2020.05.04-05.47.47:305][956]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 10 classes and 3 folders.
+[2020.05.04-05.47.47:309][956]Display: HotReload successful (10 functions remapped  1 scriptstructs remapped)
+[2020.05.04-05.47.47:374][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.05.04-05.47.47:385][956]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3030 classes and 727 folders.
+[2020.05.04-05.47.47:385][956]Display: HotReload took  2.7s.
+[2020.05.04-05.48.06:928][910]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.04-05.48.06:955][910]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/ServerRow.ServerRow
+[2020.05.04-05.48.07:155][910]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.04-05.48.07:999][910]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.04-05.48.17:007][922]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/UI/Widgets/ServerRow.ServerRow from UserWidget to ServerRow...
+[2020.05.04-05.48.17:014][922]BlueprintLog: New page: Compile ServerRow
+[2020.05.04-05.48.17:086][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.05.04-05.48.19:706][218]BlueprintLog: New page: Compile ServerRow
+[2020.05.04-05.48.19:903][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.04-05.48.20:469][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/ServerRow" FILE="../../../../TOLWI/Content/UI/Widgets/ServerRow.uasset" SILENT=true
+[2020.05.04-05.48.20:495][270]LogSavePackage: Moving '../../../../TOLWI/Saved/ServerRow03C0435544E7C2375E2A46951A728574.tmp' to '../../../../TOLWI/Content/UI/Widgets/ServerRow.uasset'
+[2020.05.04-05.48.20:512][270]AssetCheck: New page: Asset Save: ServerRow
+[2020.05.04-05.48.20:512][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/ServerRow.ServerRow
+[2020.05.04-05.48.22:051][452]LogSlate: Window 'ServerRow' being destroyed
+[2020.05.04-05.48.22:054][452]LogSlate: Window 'ServerRow' being destroyed
+[2020.05.04-05.48.22:056][452]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.48.22:056][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.48.22:072][452]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.48.22:072][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.48.24:220][698]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-05.48.24:591][698]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.04-05.48.25:134][698]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.543 s
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: 
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: Ensure condition failed: CancelHostMenuButton != nullptr [File:D:\TOLWI\Source\TOLWI\MenuSystem\MainMenu.cpp] [Line: 31]
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: 
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: Stack: 
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff954ec78c8 UE4Editor-TOLWI-8673.dll!<lambda_66f628b3f8fdc7c223dd45af86d91591>::operator()() [d:\tolwi\source\tolwi\menusystem\mainmenu.cpp:31]
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff954eb4be0 UE4Editor-TOLWI-8673.dll!UMainMenu::Initialize() [d:\tolwi\source\tolwi\menusystem\mainmenu.cpp:31]
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdcdce1 UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdfd6bc UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdfd57d UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8d266fac3 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8d266d19a UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-05.48.25:134][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb759f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff9040c28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff9040c28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8757 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9f20681 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8a42 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff903eb036c UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff903eb07ca UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff903edf5a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff903f03de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff903f03316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff6687c901f UE4Editor.exe!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc3ec UE4Editor.exe!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc4ca UE4Editor.exe!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff6687eceae UE4Editor.exe!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff6687efcbe UE4Editor.exe!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff963cb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: [Callstack] 0x00007ff964a2ce51 ntdll.dll!UnknownFunction []
+[2020.05.04-05.48.25:135][698]LogOutputDevice: Error: 
+[2020.05.04-05.48.25:143][698]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.04-05.48.26:523][698]LogStats:                    SendNewReport -  1.381 s
+[2020.05.04-05.48.26:523][698]LogStats:             FDebug::EnsureFailed -  1.933 s
+[2020.05.04-05.48.26:544][699]LogTemp: Resetting audio stream to device id 
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: Channel Order:
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 4: BackLeft
+[2020.05.04-05.48.26:585][699]LogAudioMixer: Display: 5: BackRight
+[2020.05.04-05.48.26:586][699]LogAudioMixer: Display: 6: SideLeft
+[2020.05.04-05.48.26:586][699]LogAudioMixer: Display: 7: SideRight
+[2020.05.04-05.48.26:671][703]LogBlueprint: Warning: Unknown type of hyperlinked object (EditableTextBox), cannot focus it
+[2020.05.04-05.48.29:118][957]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-05.48.29:118][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.48.29:118][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:119][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.48.29:120][957]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.48.29:194][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.27:743][137]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.51.27:781][137]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.51.35:116][920]LogEditorTransaction: Undo Add Widget
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.35:117][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.35:118][920]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.51.36:596][ 44]LogEditorTransaction: Undo Reparent Blueprint
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.52:072][867]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.51.58:703][589]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.04:125][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.04:125][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.04:126][ 40]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.04:182][ 40]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.15:682][238]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.05.04-05.52.15:682][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.15:683][238]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.15:741][238]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.16:049][246]Cmd: TRANSACTION UNDO
+[2020.05.04-05.52.16:049][246]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.05.04-05.52.16:050][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.16:050][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:051][246]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.16:123][246]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.16:664][298]Cmd: TRANSACTION UNDO
+[2020.05.04-05.52.16:664][298]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.16:665][298]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.16:699][298]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.17:174][348]Cmd: TRANSACTION UNDO
+[2020.05.04-05.52.17:174][348]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:175][348]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.17:209][348]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.17:775][407]Cmd: TRANSACTION UNDO
+[2020.05.04-05.52.17:775][407]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.05.04-05.52.17:775][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "QuitButton" of type  Button  was not found.
+[2020.05.04-05.52.17:775][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:775][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:776][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.17:776][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.17:776][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:776][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.17:776][407]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.17:840][407]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.30:869][690]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.30:904][690]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.33:751][965]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:752][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.52.33:754][965]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.52.33:821][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.05.04-05.52.33:890][965]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.35:121][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset" SILENT=true
+[2020.05.04-05.52.35:144][ 80]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidget09AA0BDA45CEC3D5A82BC78F459084B4.tmp' to '../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset'
+[2020.05.04-05.52.35:159][ 80]AssetCheck: New page: Asset Save: MainMenuWidget
+[2020.05.04-05.52.35:159][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-05.52.40:321][581]LogBlueprint: Warning: Unknown type of hyperlinked object (Button), cannot focus it
+[2020.05.04-05.52.42:855][847]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-05.52.50:887][639]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.52.50:906][639]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.52.50:908][639]LogSlate: Took 0.001352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.04-05.55.17:473][794]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.55.17:480][794]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.55.33:459][538]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.56.08:375][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.04-05.56.08:379][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.057
+[2020.05.04-05.56.08:380][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/ServerRow] ([1] browsable assets)...
+[2020.05.04-05.56.08:380][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/ServerRow]
+[2020.05.04-05.56.08:380][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/ServerRow" FILE="../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/ServerRow_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.04-05.56.08:405][342]LogSavePackage: Moving '../../../../TOLWI/Saved/ServerRow_Auto13BF30B0D4FA8509E958998954F1AED05.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/ServerRow_Auto1.uasset'
+[2020.05.04-05.56.08:406][342]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.05.04-05.56.17:229][268]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.56.17:237][268]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.56.19:095][477]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.56.23:399][928]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.56.26:914][320]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.56.26:968][320]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.56.27:059][327]SourceControl: fatal: D:/UE_4.24/Engine/Content/UMG/Editor: 'D:/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.05.04-05.56.28:404][455]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.56.28:411][455]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-05.57.01:414][852]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.57.01:422][852]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.06:758][406]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.57.06:758][406]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.15:725][393]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.15:752][393]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.19:798][799]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.57.19:807][799]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.20:590][871]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.57.20:620][871]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.22:217][ 50]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.22:274][ 50]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.24:741][303]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.24:777][303]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.26:044][437]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.26:080][437]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.34:942][360]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.34:981][360]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.37:127][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.57.37:128][575]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.57.37:165][575]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.57.52:716][160]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.57.52:735][160]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.05:353][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.05:354][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.58.05:354][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.58.05:354][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.05:354][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.05:354][929]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.58.05:393][929]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.16:640][ 64]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.58.16:680][ 64]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.17:529][152]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.17:544][152]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.58.37:924][203]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.58.37:958][203]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.40:563][460]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.40:571][460]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.48:431][235]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.48:431][235]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.50:208][415]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.50:208][415]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.51:028][497]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.51:028][497]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.56:706][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.04-05.58.57:665][117]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.57:665][117]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.58.59:073][249]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.58.59:080][249]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.16:491][970]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:492][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmJoinMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.16:494][970]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.59.16:542][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.05.04-05.59.16:602][970]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.29:436][220]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.59.29:458][220]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.35:428][855]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.59.35:429][855]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.59.35:429][855]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.35:429][855]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.35:429][855]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.59.35:469][855]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.37:261][ 35]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-05.59.37:275][ 35]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.42:574][561]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-05.59.42:575][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.59.42:575][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.59.42:575][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.42:575][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.42:575][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.59.42:577][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "HostMenu" of type  Widget  was not found.
+[2020.05.04-05.59.42:577][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-05.59.42:578][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.42:578][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-05.59.42:578][561]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-05.59.42:623][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.04-05.59.42:675][561]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-05.59.43:444][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset" SILENT=true
+[2020.05.04-05.59.43:469][619]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidget29E317EF4D03B9270F18AFB28AE68DD3.tmp' to '../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset'
+[2020.05.04-05.59.43:484][619]AssetCheck: New page: Asset Save: MainMenuWidget
+[2020.05.04-05.59.43:484][619]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-06.00.43:270][268]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.00.43:278][268]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.00.48:587][841]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.00.48:588][841]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.48:588][841]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.48:588][841]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.00.48:618][841]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.00.50:544][ 36]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-06.00.50:545][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.00.50:545][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.50:545][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.50:545][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.00.50:547][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.00.50:547][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.50:547][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.00.50:547][ 36]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.00.50:593][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.04-06.00.50:654][ 36]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.00.51:995][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset" SILENT=true
+[2020.05.04-06.00.52:014][166]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidget9E085E3C42E63A455654C5A3A7ED2201.tmp' to '../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset'
+[2020.05.04-06.00.52:026][166]AssetCheck: New page: Asset Save: MainMenuWidget
+[2020.05.04-06.00.52:026][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-06.02.00:011][354]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.00:026][354]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.09:182][720]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.09:182][720]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.09:183][720]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.09:183][720]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.09:251][720]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.14:549][270]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.14:549][270]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.14:549][270]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.14:549][270]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.14:582][270]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.34:960][377]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.34:960][377]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.34:960][377]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.34:960][377]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.34:993][377]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.37:777][645]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.37:785][645]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.41:991][105]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.41:991][105]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.41:991][105]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.41:991][105]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.44:800][424]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.05.04-06.02.45:660][513]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.45:668][513]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.47:914][731]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.47:922][731]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.48:394][779]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.48:408][779]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.49:566][897]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.49:574][897]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.56:628][602]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.56:628][602]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.56:628][602]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.56:628][602]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.56:671][602]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.58:797][791]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.02.58:819][791]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.02.59:815][886]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.02.59:815][886]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.59:815][886]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.02.59:815][886]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.02.59:875][886]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.03:013][167]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.03.03:021][167]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.11:335][978]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.03.11:353][978]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.38:743][506]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.03.38:763][506]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.52:257][868]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.03.52:257][868]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.03.52:257][868]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.03.52:257][868]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.03.52:297][868]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.56:487][286]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.03.56:487][286]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "CancelHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.03.56:487][286]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.03.56:487][286]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.03.56:540][286]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.03.56:601][290]SourceControl: fatal: D:/UE_4.24/Engine/Content/UMG/Editor: 'D:/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.05.04-06.04.00:963][703]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-06.04.00:982][703]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.05.04-06.04.11:009][732]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerHostName" of type  Text Box  was not found.
+[2020.05.04-06.04.11:009][732]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ConfirmHostMenuButton" of type  Button  was not found.
+[2020.05.04-06.04.11:009][732]LogBlueprint: Error: [Compiler MainMenuWidget] A required widget binding "ServerList" of type  Panel Widget  was not found.
+[2020.05.04-06.04.11:049][732]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.04-06.04.11:050][732]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: 
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: Ensure condition failed: ConfirmHostMenuButton != nullptr [File:D:\TOLWI\Source\TOLWI\MenuSystem\MainMenu.cpp] [Line: 34]
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: 
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: Stack: 
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: [Callstack] 0x00007ff954ec7bd8 UE4Editor-TOLWI-8673.dll!<lambda_c7d0f249e5c2e3abb711406ba171cac8>::operator()() [d:\tolwi\source\tolwi\menusystem\mainmenu.cpp:34]
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: [Callstack] 0x00007ff954eb4cce UE4Editor-TOLWI-8673.dll!UMainMenu::Initialize() [d:\tolwi\source\tolwi\menusystem\mainmenu.cpp:34]
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdcdce1 UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdfd6bc UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-06.04.11:050][732]LogOutputDevice: Error: [Callstack] 0x00007ff8dcdfd57d UE4Editor-UMG.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8d266fac3 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8d266d19a UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb759f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff9040c28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff9040c28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff9040c5574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8757 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9f20681 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff8f9fb8a42 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff903eb036c UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff903eb07ca UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff903edf5a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff903f03de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff903f03316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff6687c901f UE4Editor.exe!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc3ec UE4Editor.exe!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc4ca UE4Editor.exe!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff6687eceae UE4Editor.exe!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff6687efcbe UE4Editor.exe!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff963cb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: [Callstack] 0x00007ff964a2ce51 ntdll.dll!UnknownFunction []
+[2020.05.04-06.04.11:051][732]LogOutputDevice: Error: 
+[2020.05.04-06.04.11:053][732]LogStats:                SubmitErrorReport -  0.000 s

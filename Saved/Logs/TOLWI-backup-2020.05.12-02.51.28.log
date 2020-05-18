@@ -1,0 +1,1684 @@
+﻿Log file open, 05/12/20 11:23:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TOLWI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.136962
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.46
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.11-23.23.06:484][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.11-23.23.06:485][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.11-23.23.06:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:486][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:492][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.11-23.23.06:492][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.11-23.23.06:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.11-23.23.06:494][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.11-23.23.06:495][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.11-23.23.06:495][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.11-23.23.06:495][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.11-23.23.06:508][  0]LogHAL: Display: Platform has ~ 64 GB [68592717824 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.11-23.23.06:509][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.11-23.23.06:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.11-23.23.06:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.11-23.23.06:510][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.11-23.23.06:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.11-23.23.06:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.11-23.23.06:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.11-23.23.06:511][  0]LogInit: Computer: DESKTOP-FC7SNQS
+[2020.05.11-23.23.06:511][  0]LogInit: User: JeremyB
+[2020.05.11-23.23.06:511][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.11-23.23.06:511][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.11-23.23.06:511][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.05.11-23.23.06:511][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.11-23.23.06:511][  0]LogMemory: Process Physical Memory: 107.34 MB used, 107.35 MB peak
+[2020.05.11-23.23.06:511][  0]LogMemory: Process Virtual Memory: 102.39 MB used, 102.39 MB peak
+[2020.05.11-23.23.06:511][  0]LogMemory: Physical Memory: 14092.55 MB used,  51322.56 MB free, 65415.11 MB total
+[2020.05.11-23.23.06:511][  0]LogMemory: Virtual Memory: 5180.77 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.05.11-23.23.06:571][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.11-23.23.06:775][  0]LogInit: Using OS detected language (en-US).
+[2020.05.11-23.23.06:775][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.11-23.23.06:778][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.11-23.23.07:005][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.11-23.23.07:117][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.11-23.23.07:117][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.11-23.23.10:377][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.11-23.23.10:378][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.11-23.23.10:378][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.11-23.23.10:378][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.11-23.23.10:472][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.11-23.23.10:473][  0]LogD3D11RHI:       8079/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.11-23.23.10:475][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.11-23.23.10:475][  0]LogD3D11RHI:       0/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.11-23.23.10:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.11-23.23.10:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.11-23.23.10:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.11-23.23.10:486][  0]LogWindows: EnumDisplayDevices:
+[2020.05.11-23.23.10:486][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.11-23.23.10:486][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.11-23.23.10:486][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.11-23.23.10:486][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.11-23.23.10:486][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.11-23.23.10:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.11-23.23.10:486][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.11-23.23.10:486][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.11-23.23.10:486][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.11-23.23.10:532][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.11-23.23.10:533][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.11-23.23.10:565][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.11-23.23.10:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.11-23.23.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.11-23.23.11:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.11-23.23.11:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.11-23.23.11:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.11-23.23.11:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.11-23.23.11:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.11-23.23.11:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.11-23.23.11:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.11-23.23.11:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.11-23.23.11:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.11-23.23.11:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.11-23.23.11:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.11-23.23.11:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.11-23.23.11:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.11-23.23.11:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.11-23.23.11:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.11-23.23.11:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.11-23.23.11:271][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.11-23.23.11:334][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.11-23.23.11:632][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (../../../../TOLWI/Intermediate/Shaders/WorkingDirectory/43704/).
+[2020.05.11-23.23.11:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy B/AppData/Local/Temp/UnrealShaderWorkingDir/4078629C4A69194BD8172A81DE780EC0/'.
+[2020.05.11-23.23.11:632][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.11-23.23.11:633][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.11-23.23.11:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.11-23.23.14:691][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.11-23.23.14:769][  0]LogDerivedDataCache: Loaded boot cache 0.08s 88MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.11-23.23.14:769][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.11-23.23.14:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../TOLWI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.11-23.23.14:769][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.11-23.23.14:770][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../TOLWI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.11-23.23.14:770][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.11-23.23.14:784][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.11-23.23.14:784][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.11-23.23.14:784][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.11-23.23.14:786][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy B/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.11-23.23.14:786][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.11-23.23.14:786][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.11-23.23.14:806][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.11-23.23.14:807][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.11-23.23.14:830][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.11-23.23.15:099][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.05.11-23.23.15:338][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.11-23.23.15:751][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.11-23.23.15:751][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.11-23.23.15:751][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.11-23.23.15:751][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.11-23.23.15:751][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.11-23.23.15:797][  0]LogNetVersion: TOLWI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 138115532)
+[2020.05.11-23.23.19:125][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.088381 seconds
+[2020.05.11-23.23.19:139][  0]LogUObjectArray: 46759 objects as part of root set at end of initial load.
+[2020.05.11-23.23.19:139][  0]LogUObjectAllocator: 8148360 out of 0 bytes used by permanent object pool.
+[2020.05.11-23.23.19:139][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.11-23.23.20:978][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.11-23.23.20:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.11-23.23.21:765][  0]SourceControl: Source control is disabled
+[2020.05.11-23.23.22:902][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.11-23.23.23:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.11-23.23.23:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.11-23.23.23:253][  0]LogOcInput: OculusInput pre-init called
+[2020.05.11-23.23.23:288][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.11-23.23.23:288][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.11-23.23.23:457][  0]LogEngine: Initializing Engine...
+[2020.05.11-23.23.23:458][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.11-23.23.23:459][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.11-23.23.23:991][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.11-23.23.24:011][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.11-23.23.24:028][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.11-23.23.24:028][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.11-23.23.24:029][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.11-23.23.24:029][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Name: Headset Earphone (2- Microsoft LifeChat LX-3000)
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-23.23.24:183][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-23.23.24:205][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Microsoft LifeChat LX-3000)
+[2020.05.11-23.23.24:211][  0]LogInit: FAudioDevice initialized.
+[2020.05.11-23.23.24:211][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.11-23.23.24:335][  0]LogDerivedDataCache: Saved boot cache 0.12s 88MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.11-23.23.24:346][  0]LogInit: Texture streaming: Enabled
+[2020.05.11-23.23.24:412][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.11-23.23.24:412][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.11-23.23.24:413][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.11-23.23.24:502][  0]LogInit: Transaction tracking system initialized
+[2020.05.11-23.23.24:605][  0]BlueprintLog: New page: Editor Load
+[2020.05.11-23.23.24:868][  0]LocalizationService: Localization service is disabled
+[2020.05.11-23.23.25:074][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.11-23.23.25:074][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.11-23.23.25:074][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.11-23.23.25:586][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.11-23.23.25:586][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.11-23.23.25:844][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/' took 0.01s
+[2020.05.11-23.23.26:814][  0]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.11-23.23.26:814][  0]LightingResults: New page: Lighting Build
+[2020.05.11-23.23.26:815][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.23.26:815][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.23.26:815][  0]MapCheck: New page: Map Check
+[2020.05.11-23.23.26:815][  0]LightingResults: New page: Lighting Build
+[2020.05.11-23.23.26:865][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.11-23.23.26:872][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.11-23.23.26:872][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-23.23.26:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.05.11-23.23.26:910][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-23.23.26:910][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.05.11-23.23.26:910][  0]LogFileHelpers: Loading map 'MainMenu' took 0.096
+[2020.05.11-23.23.27:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-23.23.27:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-23.23.27:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-23.23.27:114][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-23.23.27:145][  0]LogCollectionManager: Loaded 0 collections in 0.000934 seconds
+[2020.05.11-23.23.27:165][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Saved/Collections/' took 0.00s
+[2020.05.11-23.23.27:165][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Developers/JeremyB/Collections/' took 0.00s
+[2020.05.11-23.23.27:165][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Collections/' took 0.00s
+[2020.05.11-23.23.27:165][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 3030 classes and 724 folders.
+[2020.05.11-23.23.27:168][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.11-23.23.27:454][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.11-23.23.27:478][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.11-23.23.27:565][  0]LogSlate: Took 0.008250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.11-23.23.27:571][  0]LogSlate: Took 0.004658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.11-23.23.27:582][  0]LogSlate: Took 0.008226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.11-23.23.27:711][  0]LogRenderer: Reallocating scene render targets to support 1348x864 Format 10 NumSamples 1 (Frame:1).
+[2020.05.11-23.23.27:805][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.11-23.23.27:805][  0]LogLoad: (Engine Initialization) Total time: 23.95 seconds
+[2020.05.11-23.23.27:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.11-23.23.27:872][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.11-23.23.28:448][ 11]LogAssetRegistry: Asset discovery search completed in 13.3507 seconds
+[2020.05.11-23.23.28:451][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.05.11-23.24.36:888][165]LogSlate: Took 0.006232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.11-23.24.36:928][165]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.11-23.24.36:928][165]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.11-23.24.37:001][165]LogSlate: Took 0.009657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.11-23.24.46:096][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/SpringPuzzles/SpringPortal.SpringPortal
+[2020.05.11-23.24.46:297][241]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.11-23.24.46:960][241]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.05.11-23.24.47:146][241]LogRenderer: Reallocating scene render targets to support 1392x864 Format 10 NumSamples 1 (Frame:1).
+[2020.05.11-23.24.54:768][111]LogSlate: Took 0.008955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.11-23.25.00:163][712]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.25.00:167][712]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.25.00:179][712]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.25.00:179][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.30.34:013][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/SpringPuzzles/SpringPortal.SpringPortal
+[2020.05.11-23.30.35:914][559]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.30.35:919][559]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.30.35:919][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.30.35:974][559]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/SpringPuzzles/SpringPortal.SpringPortal
+[2020.05.11-23.32.04:891][564]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f1ff2e1d-7741-4673-bbd2-82c1bc5e1ec8}.
+[2020.05.11-23.32.04:891][564]LogTemp: Resetting audio stream to device id 
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Name: Acer RT280K (NVIDIA High Definition Audio)
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: Channel Order:
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-23.32.04:914][564]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-23.32.36:706][660]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9fbb2ee1-6f37-4546-8595-d6876601834b}.
+[2020.05.11-23.32.37:107][660]LogTemp: Resetting audio stream to device id 
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Is Default: Yes
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: Channel Order:
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 1: FrontRight
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 4: BackLeft
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 5: BackRight
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 6: SideLeft
+[2020.05.11-23.32.37:136][660]LogAudioMixer: Display: 7: SideRight
+[2020.05.11-23.33.28:105][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.11-23.33.28:106][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.064
+[2020.05.11-23.33.28:110][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interactables/SpringPuzzles/SpringPortal] ([1] browsable assets)...
+[2020.05.11-23.33.28:110][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/SpringPuzzles/SpringPortal]
+[2020.05.11-23.33.28:120][812]LogSavePackage: Moving '../../../../TOLWI/Saved/SpringPortal_Auto10157140647DFB2F4233EF68A146BBC15.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/Interactables/SpringPuzzles/SpringPortal_Auto1.uasset'
+[2020.05.11-23.33.28:120][812]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.05.11-23.35.03:874][882]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.11-23.35.03:874][882]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.11-23.35.06:662][882]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.05.11-23.35.06:670][882]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2020.05.11-23.37.06:063][265]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.37.06:067][265]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.37.06:079][265]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.37.06:079][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.37.07:018][371]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.05.11-23.37.07:023][371]Candidate modules for hot reload:
+[2020.05.11-23.37.07:023][371]  TOLWI
+[2020.05.11-23.37.07:023][371]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,4157 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.11-23.37.07:024][371]Warning: Starting HotReload took  0.0s.
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: New page: Compilation - 12/05/2020, 11:37:13 pm
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: Creating makefile for TOLWIEditor (no existing makefile)
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.11-23.37.13:610][114]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: Error: D:/TOLWI/Source/TOLWI/SpringPortal.h(40)  : LogCompile: Error: Unknown variable specifier 'EditDefaultOnly'
+[2020.05.11-23.37.13:610][114]CompilerResultsLog: Error: D:/TOLWI/Source/TOLWI/SpringPortal.h(41)  : LogCompile: Error: Property has a Category set but is not exposed to the editor or Blueprints with EditAnywhere, BlueprintReadWrite, VisibleAnywhere, BlueprintReadOnly, BlueprintAssignable, BlueprintCallable keywords.
+[2020.05.11-23.37.13:610][114]LogMainFrame: MainFrame: Module compiling took 6.592 seconds
+[2020.05.11-23.37.13:610][114]Warning: HotReload failed, recompile failed
+[2020.05.11-23.37.44:455][439]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.37.44:458][439]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.37.46:060][620]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.05.11-23.37.46:063][620]Candidate modules for hot reload:
+[2020.05.11-23.37.46:063][620]  TOLWI
+[2020.05.11-23.37.46:063][620]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,1565 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.11-23.37.46:065][620]Warning: Starting HotReload took  0.0s.
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: New page: Compilation - 12/05/2020, 11:38:12 pm
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Creating makefile for TOLWIEditor (no existing makefile)
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.0302924 seconds
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.11-23.38.12:938][ 50]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog: Building 14 actions with 16 processes...
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [1/14] TOLWI.init.gen.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [2/14] TOLWIPlayerController.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [3/14] TOLWIPlayerController.gen.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [4/14] SpringPortal.gen.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [5/14] TOLWIGameModeBase.gen.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [6/14] TOLWIGameState.gen.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [7/14] TOLWIGameState.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [8/14] SpringPortal.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\SpringPortal.cpp(20) : error C2664: 'void TSparseDynamicDelegate<FComponentBeginOverlapSignature_MCSignature,UPrimitiveComponent,FComponentBeginOverlapSignatureInfoGetter>::__Internal_AddDynamic<ASpringPortal>(UserClass *,void (__cdecl ASpringPortal::* )(UPrimitiveComponent *,AActor *,UPrimitiveComponent *,int32,bool,const FHitResult &),FName)': cannot convert argument 2 from 'void (__cdecl ASpringPortal::* )(UPrimitiveComponent *,AActor *,UPrimitiveComponent *,int32,bool,const FHitResult)' to 'void (__cdecl ASpringPortal::* )(UPrimitiveComponent *,AActor *,UPrimitiveComponent *,int32,bool,const FHitResult &)'
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:           with
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:           [
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:               UserClass=ASpringPortal
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:           ]
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\SpringPortal.cpp(20): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [9/14] TOLWIGameModeBase.cpp
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameModeBase.cpp(32): warning C4458: declaration of 'GameState' hides class member
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.11-23.38.12:939][ 50]CompilerResultsLog:   [10/14] TOLWIGameMode.gen.cpp
+[2020.05.11-23.38.12:940][ 50]CompilerResultsLog:   [11/14] TOLWIGameMode.cpp
+[2020.05.11-23.38.12:940][ 50]LogMainFrame: MainFrame: Module compiling took 26.880 seconds
+[2020.05.11-23.38.12:940][ 50]Warning: HotReload failed, recompile failed
+[2020.05.11-23.39.32:941][ 67]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.39.32:945][ 67]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.50.05:552][189]Candidate modules for hot reload:
+[2020.05.11-23.50.05:552][189]  TOLWI
+[2020.05.11-23.50.05:552][189]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,2152 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.11-23.50.05:555][189]Warning: Starting HotReload took  0.7s.
+[2020.05.11-23.50.16:621][414]CompilerResultsLog: New page: Compilation - 12/05/2020, 11:50:16 pm
+[2020.05.11-23.50.16:621][414]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.11-23.50.16:621][414]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.11-23.50.16:621][414]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.11-23.50.16:621][414]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.2208855 seconds
+[2020.05.11-23.50.16:621][414]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [1/6] TOLWI.init.gen.cpp
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [2/6] SpringPortal.gen.cpp
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [3/6] SpringPortal.cpp
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [4/6] UE4Editor-TOLWI-2152.lib
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-2152.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-2152.exp
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [5/6] UE4Editor-TOLWI-2152.dll
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-2152.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-2152.suppressed.exp
+[2020.05.11-23.50.16:622][414]CompilerResultsLog:   [6/6] TOLWIEditor.target
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: Total time in Parallel executor: 4.44 seconds
+[2020.05.11-23.50.16:622][414]CompilerResultsLog: Total execution time: 10.66 seconds
+[2020.05.11-23.50.16:622][414]LogMainFrame: MainFrame: Module compiling took 11.074 seconds
+[2020.05.11-23.50.16:671][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.05.11-23.50.16:710][414]LogClass: Could not find existing class SpringPortal in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.11-23.50.16:710][414]LogClass: Function HandleOverlap is new.
+[2020.05.11-23.50.16:718][414]LogClass: Could not find existing class TOLWIGameState in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.11-23.50.16:718][414]LogClass: Function MulticastOnSpringPortal is new.
+[2020.05.11-23.50.16:718][414]LogClass: Could not find existing class TOLWIPlayerController in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.11-23.50.16:718][414]LogClass: ServerData HotReload.
+[2020.05.11-23.50.16:728][414]LogHotReload: Re-instancing SpringPortal after hot-reload.
+[2020.05.11-23.50.16:892][414]LogHotReload: Re-instancing TOLWIPlayerController after hot-reload.
+[2020.05.11-23.50.17:026][414]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 13 classes and 3 folders.
+[2020.05.11-23.50.17:032][414]Display: HotReload successful (10 functions remapped  1 scriptstructs remapped)
+[2020.05.11-23.50.17:144][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.11-23.50.17:158][414]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3033 classes and 727 folders.
+[2020.05.11-23.50.17:158][414]Display: HotReload took 12.3s.
+[2020.05.11-23.50.56:966][671]Candidate modules for hot reload:
+[2020.05.11-23.50.56:966][671]  TOLWI
+[2020.05.11-23.50.56:966][671]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,7419 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.11-23.50.56:968][671]Warning: Starting HotReload took  0.0s.
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: New page: Compilation - 12/05/2020, 11:50:59 pm
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.11-23.50.59:605][936]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.11-23.50.59:606][936]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.11-23.50.59:606][936]CompilerResultsLog: [Upgrade]
+[2020.05.11-23.50.59:606][936]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.05.11-23.50.59:606][936]CompilerResultsLog:   [1/3] UE4Editor-TOLWI-7419.lib
+[2020.05.11-23.50.59:606][936]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-7419.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-7419.exp
+[2020.05.11-23.50.59:606][936]CompilerResultsLog:   [2/3] UE4Editor-TOLWI-7419.dll
+[2020.05.11-23.50.59:606][936]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-7419.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-7419.suppressed.exp
+[2020.05.11-23.50.59:606][936]CompilerResultsLog:   [3/3] TOLWIEditor.target
+[2020.05.11-23.50.59:606][936]CompilerResultsLog: Total time in Parallel executor: 1.62 seconds
+[2020.05.11-23.50.59:606][936]CompilerResultsLog: Total execution time: 2.53 seconds
+[2020.05.11-23.50.59:606][936]LogMainFrame: MainFrame: Module compiling took 2.643 seconds
+[2020.05.11-23.50.59:691][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.11-23.50.59:737][936]LogClass: ServerData HotReload.
+[2020.05.11-23.50.59:746][936]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 13 classes and 3 folders.
+[2020.05.11-23.50.59:752][936]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.11-23.50.59:874][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.11-23.50.59:888][936]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3033 classes and 727 folders.
+[2020.05.11-23.50.59:888][936]Display: HotReload took  2.9s.
+[2020.05.11-23.51.01:408][ 86]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/SpringPuzzles/SpringPortal.SpringPortal
+[2020.05.11-23.51.05:578][470]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.51.05:583][470]LogSlate: Window 'SpringPortal' being destroyed
+[2020.05.11-23.51.05:595][470]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.51.05:595][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.51.15:695][653]LogAIModule: Creating AISystem for world Autumn
+[2020.05.11-23.51.15:695][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Autumn.Autumn
+[2020.05.11-23.51.15:788][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.11-23.51.17:126][653]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-23.51.17:228][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/SpringPuzzles/SpringPortal" FILE="../../../../TOLWI/Content/Interactables/SpringPuzzles/SpringPortal.uasset" SILENT=true
+[2020.05.11-23.51.17:245][653]LogSavePackage: Moving '../../../../TOLWI/Saved/SpringPortal5D88F83E4058D7D5747E08B7CDA8C551.tmp' to '../../../../TOLWI/Content/Interactables/SpringPuzzles/SpringPortal.uasset'
+[2020.05.11-23.51.17:452][653]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/Autumn.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.11-23.51.17:452][653]LightingResults: New page: Lighting Build
+[2020.05.11-23.51.17:453][653]LoadErrors: New page: Loading map: Autumn.umap
+[2020.05.11-23.51.17:453][653]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.51.17:453][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.51.17:453][653]MapCheck: New page: Map Check
+[2020.05.11-23.51.17:453][653]LightingResults: New page: Lighting Build
+[2020.05.11-23.51.17:506][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.11-23.51.17:586][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-23.51.17:630][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.05.11-23.51.17:655][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-23.51.17:657][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.37ms to complete.
+[2020.05.11-23.51.17:657][653]LogFileHelpers: Loading map 'Autumn' took 0.207
+[2020.05.11-23.51.17:707][653]AssetCheck: New page: Asset Save: SpringPortal
+[2020.05.11-23.51.17:707][653]LogContentValidation: Display: Validating Blueprint /Game/Interactables/SpringPuzzles/SpringPortal.SpringPortal
+[2020.05.11-23.51.26:172][430]LogActorFactory: Actor Factory created Plane
+[2020.05.11-23.51.26:916][510]LogActorFactory: Actor Factory created Plane
+[2020.05.11-23.52.07:135][113]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.05.11-23.52.08:804][302]MapCheck: New page: Map Check
+[2020.05.11-23.52.08:830][302]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.11-23.52.08:830][302]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.11-23.52.08:912][302]LogWorld: UWorld::CleanupWorld for Autumn, bSessionEnded=true, bCleanupResources=false
+[2020.05.11-23.52.08:986][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.05.11-23.52.09:010][302]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.11-23.52.10:455][302]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.05.11-23.52.10:455][302]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.05.11-23.52.10:455][302]TextureStreamingBuild: Display: Compiling optional shaders took 1.457 seconds.
+[2020.05.11-23.52.10:465][302]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2020.05.11-23.52.10:470][302]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2020.05.11-23.52.10:509][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.11-23.52.10:537][302]LightingResults: New page: Lighting Build - 12/05/2020, 11:52:10 pm
+[2020.05.11-23.52.10:775][302]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.11-23.52.10:970][302]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.11-23.52.10:980][302]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.11-23.52.12:001][302]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.11-23.52.12:001][302]LogSwarmInterface: [TryOpenConnection] Local Process ID is 43704
+[2020.05.11-23.52.14:493][302]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.11-23.52.14:499][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.11-23.52.14:499][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.11-23.52.14:499][302]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.11-23.52.14:499][302]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.11-23.52.14:499][302]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.11-23.52.14:677][302]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.11-23.52.14:677][302]MapCheck: New page: Autumn - 12/05/2020, 11:52:14 pm
+[2020.05.11-23.52.14:702][302]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.05.11-23.52.14:731][302]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 53.509ms to complete.
+[2020.05.11-23.52.14:744][302]LogEditorBuildUtils: Build time 0:05
+[2020.05.11-23.52.15:298][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.11-23.52.16:921][307]Job is a success!
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.11-23.52.17:427][308]LogVolumetricLightmapImport:          Autumn 			 3 bricks 	 100.0% (Persistent Level)
+[2020.05.11-23.52.17:507][308]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2020.05.11-23.52.17:507][308]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.05.11-23.52.17:507][308]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.05.11-23.52.17:507][308]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.05.11-23.52.17:507][308]Lightmass on DESKTOP-FC7SNQS: 1.36 sec total, 157 ms importing, 25 ms setup, 42 ms photons, 1.09 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 16.4 sec total, 14 ms processing.
+[2020.05.11-23.52.17:576][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.11-23.52.17:607][308]LogStaticLightingSystem: Illumination: 6.75 sec (25 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2020.05.11-23.52.17:607][308]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.05.11-23.52.17:607][308]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.05.11-23.52.18:490][308]DumpUnbuiltLightIteractions
+[2020.05.11-23.52.18:490][308]Lights with unbuilt interactions: 0
+[2020.05.11-23.52.18:490][308]
+[2020.05.11-23.52.18:490][308]Primitives with unbuilt interactions: 0
+[2020.05.11-23.52.18:603][309]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.11-23.52.18:603][309]MapCheck: New page: Autumn - 12/05/2020, 11:52:18 pm
+[2020.05.11-23.52.18:603][309]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.297ms to complete.
+[2020.05.11-23.53.12:927][633]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.53.12:932][633]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-23.53.15:660][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.11-23.53.20:923][567]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.11-23.53.37:349][413]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.53.38:761][575]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.53.45:342][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.11-23.53.56:259][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.11-23.53.56:907][691]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.11-23.53.57:705][782]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.05.11-23.54.06:857][840]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.54.10:972][306]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.54.11:235][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.05.11-23.54.18:226][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Autumn" FILE="../../../../TOLWI/Content/Levels/Autumn.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.11-23.54.18:275][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.05.11-23.54.18:295][121]LogSavePackage: Moving '../../../../TOLWI/Saved/Autumn66E74EC24D4DC8D20F3121ACEAAA2419.tmp' to '../../../../TOLWI/Content/Levels/Autumn.umap'
+[2020.05.11-23.54.18:467][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Autumn_BuiltData" FILE="../../../../TOLWI/Content/Levels/Autumn_BuiltData.uasset" SILENT=true
+[2020.05.11-23.54.18:480][121]LogSavePackage: Moving '../../../../TOLWI/Saved/Autumn_BuiltDataA91B47F949F83E1489F276BE41B11B38.tmp' to '../../../../TOLWI/Content/Levels/Autumn_BuiltData.uasset'
+[2020.05.11-23.54.18:663][121]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-23.54.18:663][121]LogContentValidation: Display: Validating World /Game/Levels/Autumn.Autumn
+[2020.05.11-23.54.18:663][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Autumn_BuiltData.Autumn_BuiltData
+[2020.05.11-23.54.20:412][324]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.05.11-23.54.23:068][631]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.54.24:717][825]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.54.30:373][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-23.54.35:356][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Autumn" FILE="../../../../TOLWI/Content/Levels/Autumn.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.11-23.54.35:401][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.11-23.54.35:414][ 18]LogSavePackage: Moving '../../../../TOLWI/Saved/Autumn1B87DCC74BF8AC6FD4991EBCC7D5809E.tmp' to '../../../../TOLWI/Content/Levels/Autumn.umap'
+[2020.05.11-23.54.35:523][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Autumn_BuiltData" FILE="../../../../TOLWI/Content/Levels/Autumn_BuiltData.uasset" SILENT=true
+[2020.05.11-23.54.35:545][ 18]LogSavePackage: Moving '../../../../TOLWI/Saved/Autumn_BuiltDataBB93CAA14EE6B9701A067E88212860ED.tmp' to '../../../../TOLWI/Content/Levels/Autumn_BuiltData.uasset'
+[2020.05.11-23.54.35:560][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-23.54.35:561][ 18]LogContentValidation: Display: Validating World /Game/Levels/Autumn.Autumn
+[2020.05.11-23.54.35:561][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Autumn_BuiltData.Autumn_BuiltData
+[2020.05.11-23.54.55:826][222]LogAIModule: Creating AISystem for world NewMap
+[2020.05.11-23.54.55:849][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap.NewMap
+[2020.05.11-23.54.55:901][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.11-23.54.55:902][222]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.11-23.54.55:902][222]LightingResults: New page: Lighting Build
+[2020.05.11-23.54.55:903][222]LoadErrors: New page: Loading map: NewMap.umap
+[2020.05.11-23.54.55:903][222]LogWorld: UWorld::CleanupWorld for Autumn, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.54.55:904][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.11-23.54.55:904][222]MapCheck: New page: Map Check
+[2020.05.11-23.54.55:904][222]LightingResults: New page: Lighting Build
+[2020.05.11-23.54.55:944][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.05.11-23.54.56:054][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-23.54.56:103][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.05.11-23.54.56:125][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-23.54.56:125][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2020.05.11-23.54.56:125][222]LogFileHelpers: Loading map 'NewMap' took 0.224
+[2020.05.11-23.55.25:839][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.11-23.55.25:886][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.05.11-23.55.26:046][608]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap3E2A799D4DD57000A51D0EADF69E94B4.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.11-23.55.26:189][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.05.11-23.55.26:214][608]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap_BuiltData2CB6E6C14FC79D5D9E473CB48BDA99F5.tmp' to '../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset'
+[2020.05.11-23.55.26:232][608]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.11-23.55.26:232][608]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.11-23.55.26:232][608]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.05.11-23.55.32:547][330]LogTemp: Repeating last play command: Standalone Game
+[2020.05.11-23.55.32:615][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.05.11-23.55.52:737][789]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/NewMap.NewMap:PersistentLevel.NewMap
+[2020.05.11-23.56.05:629][126]BlueprintLog: New page: Compile NewMap
+[2020.05.11-23.56.05:820][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.11-23.56.06:725][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.11-23.56.06:774][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.11-23.56.06:946][213]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap1365A11A4E4EC527849747BE3E256FAD.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.11-23.56.06:979][213]LogFileHelpers: Saving map 'NewMap' took 0.254
+[2020.05.11-23.56.06:993][213]AssetCheck: New page: Asset Save: NewMap
+[2020.05.11-23.56.06:993][213]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.11-23.56.07:616][282]LogSlate: Window 'NewMap' being destroyed
+[2020.05.11-23.56.07:625][282]LogSlate: Window 'NewMap' being destroyed
+[2020.05.11-23.56.07:638][282]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.11-23.56.07:638][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.01.39:927][799]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.02.58:903][418]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.02.58:907][418]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.03.00:281][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-00.03.00:381][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.05.12-00.03.00:581][558]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap984411684ED60ACE5BF716A47371E02A.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.12-00.03.00:726][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.05.12-00.03.00:758][558]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap_BuiltDataB53DF3064B82DEE45CEDEFBF07D255BF.tmp' to '../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset'
+[2020.05.12-00.03.00:775][558]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-00.03.00:775][558]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.12-00.03.00:775][558]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.05.12-00.03.03:620][889]Candidate modules for hot reload:
+[2020.05.12-00.03.03:620][889]  TOLWI
+[2020.05.12-00.03.03:620][889]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,5327 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.03.03:622][889]Warning: Starting HotReload took  0.0s.
+[2020.05.12-00.03.06:637][ 76]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:03:06 am
+[2020.05.12-00.03.06:637][ 76]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.03.06:637][ 76]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-00.03.06:637][ 76]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-00.03.06:637][ 76]CompilerResultsLog: Error: D:/TOLWI/Source/TOLWI/TOLWIGameState.h(8) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2020.05.12-00.03.06:637][ 76]LogMainFrame: MainFrame: Module compiling took 3.019 seconds
+[2020.05.12-00.03.06:637][ 76]Warning: HotReload failed, recompile failed
+[2020.05.12-00.03.12:876][454]LogVSAccessor: Warning: Couldn't goto line number '8' in 'D:/TOLWI/Source/TOLWI/TOLWIGameState.h'
+[2020.05.12-00.03.44:573][943]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-00.03.44:576][943]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-00.03.45:715][ 75]Candidate modules for hot reload:
+[2020.05.12-00.03.45:715][ 75]  TOLWI
+[2020.05.12-00.03.45:715][ 75]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,3784 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.03.45:717][ 75]Warning: Starting HotReload took  0.0s.
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:03:54 am
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-00.03.54:598][592]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: Reflection code generated for TOLWIEditor in 4.9403671 seconds
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-00.03.54:598][592]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [1/6] TOLWIGameState.cpp
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [2/6] TOLWIGameState.gen.cpp
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [3/6] TOLWIGameModeBase.cpp
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameModeBase.cpp(34): warning C4458: declaration of 'GameState' hides class member
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [4/6] UE4Editor-TOLWI-3784.lib
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3784.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3784.exp
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [5/6] UE4Editor-TOLWI-3784.dll
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3784.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3784.suppressed.exp
+[2020.05.12-00.03.54:599][592]CompilerResultsLog:   [6/6] TOLWIEditor.target
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: Total time in Parallel executor: 2.76 seconds
+[2020.05.12-00.03.54:599][592]CompilerResultsLog: Total execution time: 8.65 seconds
+[2020.05.12-00.03.54:599][592]LogMainFrame: MainFrame: Module compiling took 8.887 seconds
+[2020.05.12-00.03.54:677][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.12-00.03.54:723][592]LogClass: ServerData HotReload.
+[2020.05.12-00.03.54:730][592]LogHotReload: Re-instancing TOLWIGameModeBase after hot-reload.
+[2020.05.12-00.03.54:861][592]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 13 classes and 3 folders.
+[2020.05.12-00.03.54:866][592]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.03.54:962][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.12-00.03.54:977][592]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3033 classes and 727 folders.
+[2020.05.12-00.03.54:977][592]Display: HotReload took  9.3s.
+[2020.05.12-00.05.22:531][626]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.05.22:535][626]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.05.25:391][936]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.06.30:217][ 99]LogTemp: Repeating last play command: Standalone Game
+[2020.05.12-00.06.30:313][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.12-00.06.31:523][ 99]LogSlate: Window 'Save Content' being destroyed
+[2020.05.12-00.06.31:632][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-00.06.31:700][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.12-00.06.31:865][ 99]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMapF3EA89054FFC02DB00EDEEACEE89FE20.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.12-00.06.31:896][ 99]LogFileHelpers: Saving map 'NewMap' took 0.265
+[2020.05.12-00.06.31:919][100]AssetCheck: New page: Asset Save: NewMap
+[2020.05.12-00.06.31:919][100]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.12-00.11.14:787][594]Candidate modules for hot reload:
+[2020.05.12-00.11.14:787][594]  TOLWI
+[2020.05.12-00.11.14:787][594]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,5779 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.11.14:789][594]Warning: Starting HotReload took  0.0s.
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:11:24 am
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Reflection code generated for TOLWIEditor in 4.9213645 seconds
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [1/6] TOLWIGameMode.gen.cpp
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [2/6] SpringPortal.cpp
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [3/6] TOLWIGameMode.cpp
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameMode.cpp(26): warning C4458: declaration of 'GameState' hides class member
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [4/6] UE4Editor-TOLWI-5779.lib
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5779.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5779.exp
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [5/6] UE4Editor-TOLWI-5779.dll
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5779.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5779.suppressed.exp
+[2020.05.12-00.11.24:766][726]CompilerResultsLog:   [6/6] TOLWIEditor.target
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Total time in Parallel executor: 4.00 seconds
+[2020.05.12-00.11.24:766][726]CompilerResultsLog: Total execution time: 9.88 seconds
+[2020.05.12-00.11.24:767][726]LogMainFrame: MainFrame: Module compiling took 9.984 seconds
+[2020.05.12-00.11.24:811][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.05.12-00.11.24:861][726]LogClass: ServerData HotReload.
+[2020.05.12-00.11.24:869][726]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 13 classes and 3 folders.
+[2020.05.12-00.11.24:874][726]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.11.24:972][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.05.12-00.11.24:987][726]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3033 classes and 727 folders.
+[2020.05.12-00.11.24:987][726]Display: HotReload took 10.2s.
+[2020.05.12-00.11.37:702][ 64]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.11.37:705][ 64]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.11.40:814][402]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.12.08:566][463]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/UE_4.24/Engine/Source/Runtime/Engine/Classes/GameFramework/GameState.h'
+[2020.05.12-00.13.18:598][ 52]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-00.13.18:598][ 52]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-00.13.23:303][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TOLWIGameMode.TOLWIGameMode
+[2020.05.12-00.13.23:639][603]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.05.12-00.13.25:487][775]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.13.25:491][775]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.13.25:503][775]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-00.13.25:503][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.13.32:858][604]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-00.13.32:858][604]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-00.13.37:604][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TOLWIGameState.TOLWIGameState
+[2020.05.12-00.13.37:896][155]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.05.12-00.13.39:409][296]LogSlate: Window 'TOLWIGameState' being destroyed
+[2020.05.12-00.13.39:417][296]LogSlate: Window 'TOLWIGameState' being destroyed
+[2020.05.12-00.13.39:430][296]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-00.13.39:430][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.13.45:916][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.13.58:027][360]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TOLWIGameMode.TOLWIGameMode
+[2020.05.12-00.14.09:289][612]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.14.09:293][612]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.14.09:293][612]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-00.14.09:293][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.14.11:427][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.05.12-00.14.13:274][847]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.12-00.14.13:456][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.05.12-00.14.15:461][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TOLWIGameMode.TOLWIGameMode
+[2020.05.12-00.14.26:724][294]BlueprintLog: New page: Compile TOLWIGameMode
+[2020.05.12-00.14.26:918][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.05.12-00.14.28:123][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TOLWIGameMode" FILE="../../../../TOLWI/Content/TOLWIGameMode.uasset" SILENT=true
+[2020.05.12-00.14.28:134][419]LogSavePackage: Moving '../../../../TOLWI/Saved/TOLWIGameMode103139254A151C8B609C119F5CCEAEC8.tmp' to '../../../../TOLWI/Content/TOLWIGameMode.uasset'
+[2020.05.12-00.14.28:383][419]AssetCheck: New page: Asset Save: TOLWIGameMode
+[2020.05.12-00.14.28:383][419]LogContentValidation: Display: Validating Blueprint /Game/TOLWIGameMode.TOLWIGameMode
+[2020.05.12-00.14.29:884][595]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.14.29:887][595]LogSlate: Window 'TOLWIGameMode' being destroyed
+[2020.05.12-00.14.29:900][595]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-00.14.29:900][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.14.35:017][154]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.14.49:656][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-00.14.49:708][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.12-00.14.49:873][707]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMapE7F1DA8B436767EEACB446A2020A4415.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.12-00.14.50:018][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2020.05.12-00.14.50:053][707]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMap_BuiltData2A589CA04AFD81EA7AF7A6B1DD0FB21F.tmp' to '../../../../TOLWI/Content/Levels/NewMap_BuiltData.uasset'
+[2020.05.12-00.14.50:069][707]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-00.14.50:069][707]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.12-00.14.50:069][707]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewMap_BuiltData.NewMap_BuiltData
+[2020.05.12-00.14.50:474][749]Candidate modules for hot reload:
+[2020.05.12-00.14.50:474][749]  TOLWI
+[2020.05.12-00.14.50:474][749]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,9 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.14.50:476][749]Warning: Starting HotReload took  0.0s.
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:14:53 am
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog:   [1/3] UE4Editor-TOLWI-0009.lib
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-0009.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-0009.exp
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog:   [2/3] UE4Editor-TOLWI-0009.dll
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-0009.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-0009.suppressed.exp
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog:   [3/3] TOLWIEditor.target
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Total time in Parallel executor: 1.62 seconds
+[2020.05.12-00.14.53:185][ 25]CompilerResultsLog: Total execution time: 2.61 seconds
+[2020.05.12-00.14.53:185][ 25]LogMainFrame: MainFrame: Module compiling took 2.714 seconds
+[2020.05.12-00.14.53:227][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.05.12-00.14.53:243][ 25]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3033 classes and 727 folders.
+[2020.05.12-00.14.53:243][ 25]Display: HotReload took  2.8s.
+[2020.05.12-00.15.00:664][848]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.12-00.15.00:664][848]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.05.12-00.15.00:756][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.12-00.15.00:758][848]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.12-00.15.00:758][848]LightingResults: New page: Lighting Build
+[2020.05.12-00.15.00:759][848]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.05.12-00.15.00:759][848]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-00.15.00:760][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-00.15.00:760][848]MapCheck: New page: Map Check
+[2020.05.12-00.15.00:760][848]LightingResults: New page: Lighting Build
+[2020.05.12-00.15.00:825][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.05.12-00.15.00:940][848]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.12-00.15.00:993][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.12-00.15.01:021][848]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.12-00.15.01:021][848]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2020.05.12-00.15.01:021][848]LogFileHelpers: Loading map 'MainMenu' took 0.264
+[2020.05.12-00.15.02:441][  5]LogTemp: Repeating last play command: Standalone Game
+[2020.05.12-00.15.02:491][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.12-00.16.35:570][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-00.17.21:192][743]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.17.21:195][743]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.12-00.24.58:315][367]LogSlate: Took 0.051002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.12-00.25.03:057][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.12-00.25.03:880][984]LogTemp: Repeating last play command: Standalone Game
+[2020.05.12-00.25.03:933][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.12-00.27.05:493][249]LogTemp: Repeating last play command: Standalone Game
+[2020.05.12-00.27.05:549][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.12-00.41.40:265][ 69]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-00.41.40:265][ 69]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.12-00.43.32:122][741]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-00.43.47:106][458]Candidate modules for hot reload:
+[2020.05.12-00.43.47:106][458]  TOLWI
+[2020.05.12-00.43.47:106][458]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,9253 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:43:57 am
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Invalidating makefile for TOLWIEditor (source file added)
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.2041974 seconds
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Building 8 actions with 16 processes...
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [1/8] TOLWI.init.gen.cpp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [2/8] Interact.cpp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [3/8] Interact.gen.cpp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [4/8] TOLWIGameState.cpp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [5/8] SpringPortal.cpp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [6/8] UE4Editor-TOLWI-9253.lib
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-9253.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-9253.exp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [7/8] UE4Editor-TOLWI-9253.dll
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-9253.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-9253.suppressed.exp
+[2020.05.12-00.43.57:282][458]CompilerResultsLog:   [8/8] TOLWIEditor.target
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Total time in Parallel executor: 2.90 seconds
+[2020.05.12-00.43.57:282][458]CompilerResultsLog: Total execution time: 10.08 seconds
+[2020.05.12-00.43.57:282][458]LogMainFrame: MainFrame: Module compiling took 10.181 seconds
+[2020.05.12-00.43.57:327][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.05.12-00.43.57:353][458]LogClass: Could not find existing class Interact in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.12-00.43.57:383][458]LogClass: ServerData HotReload.
+[2020.05.12-00.43.57:391][458]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 14 classes and 3 folders.
+[2020.05.12-00.43.57:397][458]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.43.57:489][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.12-00.43.57:506][458]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3034 classes and 727 folders.
+[2020.05.12-00.43.57:506][458]Display: HotReload took 10.6s.
+[2020.05.12-00.43.57:524][458]Warning: HotReload operation took 10.6s.
+[2020.05.12-00.43.57:710][458]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/TOLWI/Source/TOLWI/Interact.h'
+[2020.05.12-00.43.57:710][458]LogVSAccessor: Warning: Couldn't open file 'D:/TOLWI/Source/TOLWI/Interact.cpp'.
+[2020.05.12-00.43.57:714][458]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.12-00.43.57:983][458]LogHotReload: New module detected: UE4Editor-TOLWI-9253.dll
+[2020.05.12-00.43.58:043][459]LogHotReload: Starting Hot-Reload from IDE
+[2020.05.12-00.43.58:197][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.12-00.43.58:203][459]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 14 classes and 3 folders.
+[2020.05.12-00.43.58:208][459]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.43.58:278][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.12-00.43.58:299][459]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3034 classes and 727 folders.
+[2020.05.12-00.43.58:302][459]Display: HotReload took  0.3s.
+[2020.05.12-00.47.58:253][302]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-00.47.58:254][302]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.12-00.48.01:165][615]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-00.48.18:917][897]Candidate modules for hot reload:
+[2020.05.12-00.48.18:917][897]  TOLWI
+[2020.05.12-00.48.18:917][897]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,6041 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: New page: Compilation - 13/05/2020, 12:48:28 am
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Invalidating makefile for TOLWIEditor (source file added)
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.0023164 seconds
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: [Upgrade]
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Building 8 actions with 16 processes...
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [1/8] TOLWI.init.gen.cpp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [2/8] Interact.cpp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [3/8] BasicInteractive.cpp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [4/8] BasicInteractive.gen.cpp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [5/8] Interact.gen.cpp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [6/8] UE4Editor-TOLWI-6041.lib
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-6041.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-6041.exp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [7/8] UE4Editor-TOLWI-6041.dll
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-6041.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-6041.suppressed.exp
+[2020.05.12-00.48.28:270][897]CompilerResultsLog:   [8/8] TOLWIEditor.target
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Total time in Parallel executor: 2.38 seconds
+[2020.05.12-00.48.28:270][897]CompilerResultsLog: Total execution time: 9.25 seconds
+[2020.05.12-00.48.28:270][897]LogMainFrame: MainFrame: Module compiling took 9.357 seconds
+[2020.05.12-00.48.28:355][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.05.12-00.48.28:374][897]LogClass: Could not find existing class BasicInteractive in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.12-00.48.28:414][897]LogClass: ServerData HotReload.
+[2020.05.12-00.48.28:423][897]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 15 classes and 3 folders.
+[2020.05.12-00.48.28:430][897]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.48.28:535][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.05.12-00.48.28:551][897]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3035 classes and 727 folders.
+[2020.05.12-00.48.28:551][897]Display: HotReload took  9.6s.
+[2020.05.12-00.48.28:561][897]Warning: HotReload operation took  9.7s.
+[2020.05.12-00.48.28:732][897]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/TOLWI/Source/TOLWI/BasicInteractive.h'
+[2020.05.12-00.48.28:906][897]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.12-00.48.29:189][898]LogHotReload: New module detected: UE4Editor-TOLWI-6041.dll
+[2020.05.12-00.48.29:210][899]LogHotReload: Starting Hot-Reload from IDE
+[2020.05.12-00.48.29:342][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.05.12-00.48.29:351][899]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0006 seconds. Added 15 classes and 3 folders.
+[2020.05.12-00.48.29:357][899]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2020.05.12-00.48.29:427][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.12-00.48.29:442][899]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3035 classes and 727 folders.
+[2020.05.12-00.48.29:446][899]Display: HotReload took  0.2s.
+[2020.05.12-01.21.56:848][821]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-01.21.56:848][821]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-01.22.13:202][ 64]Candidate modules for hot reload:
+[2020.05.12-01.22.13:202][ 64]  TOLWI
+[2020.05.12-01.22.13:202][ 64]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,8177 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:22:42 am
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Invalidating makefile for TOLWIEditor (source file added)
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Reflection code generated for TOLWIEditor in 21.6336963 seconds
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog: Building 11 actions with 16 processes...
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [1/11] TOLWI.init.gen.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [2/11] Mechanism.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [3/11] Mechanism.gen.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [4/11] BasicInteractive.gen.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [5/11] TOLWIGameMode.gen.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [6/11] BasicInteractive.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2065: 'IInteract': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2672: 'Cast': no matching overloaded function found
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2974: 'Cast': invalid template argument for 'T', type expected
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/World.h(104): note: see declaration of 'Cast'
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2974: 'Cast': invalid template argument for 'To', type expected
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(109): note: see declaration of 'Cast'
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(82) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(87) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2065: 'IInteract': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2672: 'Cast': no matching overloaded function found
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2974: 'Cast': invalid template argument for 'T', type expected
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/World.h(104): note: see declaration of 'Cast'
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2974: 'Cast': invalid template argument for 'To', type expected
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(109): note: see declaration of 'Cast'
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(105) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(110) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [7/11] SpringPortal.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   [8/11] TOLWIGameMode.cpp
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameMode.cpp(70): warning C4458: declaration of 'GameState' hides class member
+[2020.05.12-01.22.42:210][ 64]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.12-01.22.42:210][ 64]LogMainFrame: MainFrame: Module compiling took 29.012 seconds
+[2020.05.12-01.22.42:211][ 64]Warning: HotReload failed, recompile failed
+[2020.05.12-01.22.42:211][ 64]Warning: RebindPackages failed because compilation failed.
+[2020.05.12-01.22.46:535][ 64]LogSlate: Window 'Message' being destroyed
+[2020.05.12-01.22.46:546][ 64]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.12-01.32.39:963][183]Candidate modules for hot reload:
+[2020.05.12-01.32.39:964][183]  TOLWI
+[2020.05.12-01.32.39:964][183]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,5993 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.32.39:965][183]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:32:46 am
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.1066141 seconds
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.32.46:982][980]CompilerResultsLog: Building 7 actions with 16 processes...
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   [1/7] Mechanism.cpp
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\Mechanism.cpp(62) : error C3861: 'OnMechanismActivatedEvent': identifier not found
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   [2/7] TOLWI.init.gen.cpp
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   [3/7] Mechanism.gen.cpp
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   [4/7] BasicInteractive.cpp
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2065: 'IInteract': undeclared identifier
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2672: 'Cast': no matching overloaded function found
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2974: 'Cast': invalid template argument for 'T', type expected
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/World.h(104): note: see declaration of 'Cast'
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(80) : error C2974: 'Cast': invalid template argument for 'To', type expected
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(109): note: see declaration of 'Cast'
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(82) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(87) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:982][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2065: 'IInteract': undeclared identifier
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2672: 'Cast': no matching overloaded function found
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2974: 'Cast': invalid template argument for 'T', type expected
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/World.h(104): note: see declaration of 'Cast'
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(103) : error C2974: 'Cast': invalid template argument for 'To', type expected
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(109): note: see declaration of 'Cast'
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(105) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:983][980]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\BasicInteractive.cpp(110) : error C2065: 'Interface': undeclared identifier
+[2020.05.12-01.32.46:983][980]LogMainFrame: MainFrame: Module compiling took 7.022 seconds
+[2020.05.12-01.32.46:983][980]Warning: HotReload failed, recompile failed
+[2020.05.12-01.33.10:206][734]LogVSAccessor: Warning: Couldn't goto line number '80' in 'D:\TOLWI\Source\TOLWI\BasicInteractive.cpp'
+[2020.05.12-01.33.36:208][805]LogVSAccessor: Warning: Couldn't goto line number '62' in 'D:\TOLWI\Source\TOLWI\Mechanism.cpp'
+[2020.05.12-01.33.42:741][979]LogVSAccessor: Warning: Couldn't goto line number '82' in 'D:\TOLWI\Source\TOLWI\BasicInteractive.cpp'
+[2020.05.12-01.40.49:850][521]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.40.49:855][521]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.40.50:605][601]Candidate modules for hot reload:
+[2020.05.12-01.40.50:605][601]  TOLWI
+[2020.05.12-01.40.50:605][601]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,4775 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.40.50:607][601]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:41:00 am
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.5545897 seconds
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.41.00:130][668]CompilerResultsLog: Building 13 actions with 16 processes...
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   [1/13] Mechanism.cpp
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\Mechanism.cpp(62) : error C3861: 'OnMechanismActivatedEvent': identifier not found
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   [2/13] TOLWI.init.gen.cpp
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   [3/13] TOLWIGameModeBase.cpp
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameModeBase.cpp(34): warning C4458: declaration of 'GameState' hides class member
+[2020.05.12-01.41.00:130][668]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [4/13] SmallCharacter.gen.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [5/13] BigCharacter.gen.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [6/13] BasicInteractive.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [7/13] SpringPortal.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [8/13] TOLWIGameMode.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\TOLWIGameMode.cpp(70): warning C4458: declaration of 'GameState' hides class member
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h(129): note: see declaration of 'AGameModeBase::GameState'
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [9/13] BigCharacter.cpp
+[2020.05.12-01.41.00:131][668]CompilerResultsLog:   [10/13] SmallCharacter.cpp
+[2020.05.12-01.41.00:131][668]LogMainFrame: MainFrame: Module compiling took 9.529 seconds
+[2020.05.12-01.41.00:131][668]Warning: HotReload failed, recompile failed
+[2020.05.12-01.41.08:513][638]LogVSAccessor: Warning: Couldn't goto line number '62' in 'D:\TOLWI\Source\TOLWI\Mechanism.cpp'
+[2020.05.12-01.42.43:992][968]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.42.43:995][968]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.42.46:065][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-01.42.46:157][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.12-01.42.46:331][199]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuCD2A209E425FFBE17706AE9FEB64B5C2.tmp' to '../../../../TOLWI/Content/Levels/MainMenu.umap'
+[2020.05.12-01.42.46:477][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_BuiltData" FILE="../../../../TOLWI/Content/Levels/MainMenu_BuiltData.uasset" SILENT=true
+[2020.05.12-01.42.46:504][199]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenu_BuiltData712983F04B2EE3D35933C2BC19AA4F70.tmp' to '../../../../TOLWI/Content/Levels/MainMenu_BuiltData.uasset'
+[2020.05.12-01.42.46:519][199]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-01.42.46:519][199]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.05.12-01.42.46:519][199]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.05.12-01.43.26:165][838]Candidate modules for hot reload:
+[2020.05.12-01.43.26:165][838]  TOLWI
+[2020.05.12-01.43.26:165][838]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,3583 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.43.26:166][838]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:43:27 am
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.43.27:878][996]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.05.12-01.43.27:878][996]CompilerResultsLog:   [1/4] Mechanism.cpp
+[2020.05.12-01.43.27:878][996]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.43.27:878][996]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.43.27:878][996]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\Mechanism.cpp(62) : error C3861: 'OnMechanismActivatedEvent': identifier not found
+[2020.05.12-01.43.27:878][996]LogMainFrame: MainFrame: Module compiling took 1.716 seconds
+[2020.05.12-01.43.27:878][996]Warning: HotReload failed, recompile failed
+[2020.05.12-01.44.24:716][502]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.44.24:720][502]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.44.26:121][663]Candidate modules for hot reload:
+[2020.05.12-01.44.26:121][663]  TOLWI
+[2020.05.12-01.44.26:121][663]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,8009 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.44.26:123][663]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:44:27 am
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.44.27:825][820]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.05.12-01.44.27:825][820]CompilerResultsLog:   [1/4] Mechanism.cpp
+[2020.05.12-01.44.27:825][820]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.44.27:825][820]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.44.27:825][820]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\Mechanism.cpp(62) : error C3861: 'OnMechanismActivatedEvent': identifier not found
+[2020.05.12-01.44.27:825][820]LogMainFrame: MainFrame: Module compiling took 1.707 seconds
+[2020.05.12-01.44.27:825][820]Warning: HotReload failed, recompile failed
+[2020.05.12-01.44.31:660][265]LogVSAccessor: Warning: Couldn't goto line number '62' in 'D:\TOLWI\Source\TOLWI\Mechanism.cpp'
+[2020.05.12-01.44.52:822][862]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.44.52:827][862]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.44.54:214][ 15]Candidate modules for hot reload:
+[2020.05.12-01.44.54:214][ 15]  TOLWI
+[2020.05.12-01.44.54:214][ 15]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,3789 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.44.54:216][ 15]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:44:56 am
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   [1/4] Mechanism.cpp
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   [2/4] UE4Editor-TOLWI-3789.lib
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   Mechanism.gen.cpp.obj : warning LNK4006: "protected: void __cdecl AMechanism::onMechanismActivatedEvent(void)" (?onMechanismActivatedEvent@AMechanism@@IEAAXXZ) already defined in Mechanism.cpp.obj; second definition ignored
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3789.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3789.exp
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:   [3/4] UE4Editor-TOLWI-3789.dll
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Error:   Mechanism.gen.cpp.obj : error LNK2005: "protected: void __cdecl AMechanism::onMechanismActivatedEvent(void)" (?onMechanismActivatedEvent@AMechanism@@IEAAXXZ) already defined in Mechanism.cpp.obj
+[2020.05.12-01.44.56:874][276]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3789.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-3789.suppressed.exp
+[2020.05.12-01.44.56:874][276]CompilerResultsLog: Error:   D:\TOLWI\Binaries\Win64\UE4Editor-TOLWI-3789.dll : fatal error LNK1169: one or more multiply defined symbols found
+[2020.05.12-01.44.56:874][276]LogMainFrame: MainFrame: Module compiling took 2.663 seconds
+[2020.05.12-01.44.56:874][276]Warning: HotReload failed, recompile failed
+[2020.05.12-01.45.04:215][133]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.45.04:219][133]LogSlate: Window 'Message Log' being destroyed
+[2020.05.12-01.45.15:805][409]Candidate modules for hot reload:
+[2020.05.12-01.45.15:805][409]  TOLWI
+[2020.05.12-01.45.15:805][409]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,1810 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.12-01.45.15:806][409]Warning: Starting HotReload took  0.0s.
+[2020.05.12-01.45.19:663][827]CompilerResultsLog: New page: Compilation - 13/05/2020, 1:45:19 am
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in TOLWIEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: [Upgrade]
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   [1/4] Mechanism.cpp
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   D:\TOLWI\Source\TOLWI\Mechanism.cpp(18): warning C4996: 'AActor::Role': This member will be made private. Please use GetLocalRole or SetRole. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(534): note: see declaration of 'AActor::Role'
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   [2/4] UE4Editor-TOLWI-1810.lib
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-1810.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-1810.exp
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   [3/4] UE4Editor-TOLWI-1810.dll
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-1810.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-1810.suppressed.exp
+[2020.05.12-01.45.19:664][827]CompilerResultsLog:   [4/4] TOLWIEditor.target
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Total time in Parallel executor: 2.85 seconds
+[2020.05.12-01.45.19:664][827]CompilerResultsLog: Total execution time: 3.76 seconds
+[2020.05.12-01.45.19:664][827]LogMainFrame: MainFrame: Module compiling took 3.862 seconds
+[2020.05.12-01.45.19:710][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.12-01.45.19:729][827]LogClass: Could not find existing class BasicInteractive in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.12-01.45.19:729][827]LogClass: Function BeginOverlap is new.
+[2020.05.12-01.45.19:729][827]LogClass: Function EndOverlap is new.
+[2020.05.12-01.45.19:738][827]LogClass: Could not find existing class Mechanism in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.12-01.45.19:738][827]LogClass: Function ServerDoActivatedAction is new.
+[2020.05.12-01.45.19:752][827]LogClass: Could not find existing class TOLWIGameMode in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.12-01.45.19:759][827]LogClass: ServerData HotReload.
+[2020.05.12-01.45.19:765][827]LogHotReload: Re-instancing BasicInteractive after hot-reload.
+[2020.05.12-01.45.19:909][827]LogHotReload: Re-instancing TOLWIGameMode after hot-reload.
+[2020.05.12-01.45.20:048][827]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 16 classes and 3 folders.
+[2020.05.12-01.45.20:053][827]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2020.05.12-01.45.20:145][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.12-01.45.20:160][827]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3036 classes and 727 folders.
+[2020.05.12-01.45.20:160][827]Display: HotReload took  4.4s.
+[2020.05.12-01.45.30:591][  0]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.12-01.45.30:591][  0]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-01.45.36:082][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.45.36:442][640]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.05.12-01.45.43:184][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanism" FILE="../../../../TOLWI/Content/Mechanism.uasset" SILENT=true
+[2020.05.12-01.45.43:196][329]LogSavePackage: Moving '../../../../TOLWI/Saved/MechanismF2455571434B2815FD064BA9D0D658C6.tmp' to '../../../../TOLWI/Content/Mechanism.uasset'
+[2020.05.12-01.45.43:389][329]AssetCheck: New page: Asset Save: Mechanism
+[2020.05.12-01.45.43:390][329]LogContentValidation: Display: Validating Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.45.43:969][386]BlueprintLog: New page: Compile Mechanism
+[2020.05.12-01.45.44:263][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.12-01.45.44:666][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanism" FILE="../../../../TOLWI/Content/Mechanism.uasset" SILENT=true
+[2020.05.12-01.45.44:693][420]LogSavePackage: Moving '../../../../TOLWI/Saved/Mechanism15FC17D047B39E3235B4068613DC3CCC.tmp' to '../../../../TOLWI/Content/Mechanism.uasset'
+[2020.05.12-01.45.44:711][420]AssetCheck: New page: Asset Save: Mechanism
+[2020.05.12-01.45.44:712][420]LogContentValidation: Display: Validating Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.45.46:085][575]LogSlate: Window 'Mechanism' being destroyed
+[2020.05.12-01.45.46:090][575]LogSlate: Window 'Mechanism' being destroyed
+[2020.05.12-01.45.46:103][575]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-01.45.46:103][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-01.45.48:270][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-01.45.48:348][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.05.12-01.45.48:505][814]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuD236A8504105A540BE425EBF140DB8AE.tmp' to '../../../../TOLWI/Content/Levels/MainMenu.umap'
+[2020.05.12-01.45.48:638][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_BuiltData" FILE="../../../../TOLWI/Content/Levels/MainMenu_BuiltData.uasset" SILENT=true
+[2020.05.12-01.45.48:648][814]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenu_BuiltData9FDAC52E435133152479E1A069AE70B6.tmp' to '../../../../TOLWI/Content/Levels/MainMenu_BuiltData.uasset'
+[2020.05.12-01.45.48:663][814]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-01.45.48:663][814]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.05.12-01.45.48:663][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.05.12-01.48.02:897][906]LogAIModule: Creating AISystem for world NewMap
+[2020.05.12-01.48.02:900][906]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap.NewMap
+[2020.05.12-01.48.02:950][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.12-01.48.02:952][906]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.12-01.48.02:952][906]LightingResults: New page: Lighting Build
+[2020.05.12-01.48.02:953][906]LoadErrors: New page: Loading map: NewMap.umap
+[2020.05.12-01.48.02:953][906]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-01.48.02:953][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-01.48.02:953][906]MapCheck: New page: Map Check
+[2020.05.12-01.48.02:953][906]LightingResults: New page: Lighting Build
+[2020.05.12-01.48.02:993][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.12-01.48.03:233][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.12-01.48.03:287][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.05.12-01.48.03:309][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.12-01.48.03:310][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2020.05.12-01.48.03:310][906]LogFileHelpers: Loading map 'NewMap' took 0.359
+[2020.05.12-01.48.17:751][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.48.19:493][701]LogSlate: Window 'Mechanism' being destroyed
+[2020.05.12-01.48.19:512][701]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-01.48.19:512][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-01.48.19:586][701]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.50.00:826][822]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jeremy B\Downloads\Blast.wav)
+[2020.05.12-01.50.00:837][822]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Blast...
+[2020.05.12-01.50.00:837][822]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Blast.Blast will be modified from 40 to 40.
+[2020.05.12-01.50.00:913][822]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 416640 while cooking SoundWave /Game/Audio/Blast.Blast.
+[2020.05.12-01.50.23:144][335]BlueprintLog: New page: Compile Mechanism
+[2020.05.12-01.50.23:367][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.12-01.50.24:139][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanism" FILE="../../../../TOLWI/Content/Mechanism.uasset" SILENT=true
+[2020.05.12-01.50.24:158][392]LogSavePackage: Moving '../../../../TOLWI/Saved/MechanismA864D04344C33842F1658696C3A074AF.tmp' to '../../../../TOLWI/Content/Mechanism.uasset'
+[2020.05.12-01.50.24:182][392]AssetCheck: New page: Asset Save: Mechanism
+[2020.05.12-01.50.24:182][392]LogContentValidation: Display: Validating Blueprint /Game/Mechanism.Mechanism
+[2020.05.12-01.50.41:410][905]LogTemp: Repeating last play command: Standalone Game
+[2020.05.12-01.50.41:466][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.12-01.50.43:659][905]LogSlate: Window 'Save Content' being destroyed
+[2020.05.12-01.50.43:858][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blast" FILE="../../../../TOLWI/Content/Audio/Blast.uasset" SILENT=true
+[2020.05.12-01.50.43:871][905]LogSavePackage: Moving '../../../../TOLWI/Saved/Blast20DEC63841B063F79D14959577C1893E.tmp' to '../../../../TOLWI/Content/Audio/Blast.uasset'
+[2020.05.12-01.50.44:102][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../TOLWI/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.12-01.50.44:150][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.12-01.50.44:317][905]LogSavePackage: Moving '../../../../TOLWI/Saved/NewMapD5925A6546DF85067B4EF38AB5BBECBA.tmp' to '../../../../TOLWI/Content/Levels/NewMap.umap'
+[2020.05.12-01.50.44:348][905]LogFileHelpers: Saving map 'NewMap' took 0.245
+[2020.05.12-01.50.44:374][906]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-01.50.44:374][906]LogContentValidation: Display: Validating SoundWave /Game/Audio/Blast.Blast
+[2020.05.12-01.50.44:374][906]LogContentValidation: Display: Validating World /Game/Levels/NewMap.NewMap
+[2020.05.12-02.00.22:595][ 44]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f1ff2e1d-7741-4673-bbd2-82c1bc5e1ec8}.
+[2020.05.12-02.00.22:595][ 44]LogTemp: Resetting audio stream to device id 
+[2020.05.12-02.00.22:631][ 44]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Name: Acer RT280K (NVIDIA High Definition Audio)
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: Channel Order:
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-02.00.22:632][ 44]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-02.10.17:482][822]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ce1afc8c-1ade-4c1d-a560-8b0aa1ee3552}.
+[2020.05.12-02.10.17:482][822]LogTemp: Resetting audio stream to device id 
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek(R) Audio)
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: Channel Order:
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-02.10.17:495][822]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-02.51.27:680][211]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f1ff2e1d-7741-4673-bbd2-82c1bc5e1ec8}.
+[2020.05.12-02.51.27:680][211]LogTemp: Resetting audio stream to device id 
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Name: Acer RT280K (NVIDIA High Definition Audio)
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: Channel Order:
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-02.51.27:734][211]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-02.51.27:965][212]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f1ff2e1d-7741-4673-bbd2-82c1bc5e1ec8}.
+[2020.05.12-02.51.27:965][212]LogTemp: Resetting audio stream to device id 
+[2020.05.12-02.51.28:231][212]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Name: Acer RT280K (NVIDIA High Definition Audio)
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: Channel Order:
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-02.51.28:232][212]LogAudioMixer: Display: 1: FrontRight

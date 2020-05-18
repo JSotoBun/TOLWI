@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TOLWI",
+			"Path": "D:\\TOLWI\\Source\\TOLWI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TOLWIEditor",
+			"Path": "D:\\TOLWI\\Source\\TOLWIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

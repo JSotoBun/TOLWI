@@ -1,0 +1,1101 @@
+﻿Log file open, 05/04/20 11:07:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TOLWI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060095
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.46
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:732][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.03-23.07.35:732][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.03-23.07.35:733][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:733][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.03-23.07.35:735][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.03-23.07.35:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.03-23.07.35:736][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-23.07.35:736][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.03-23.07.35:738][  0]LogHAL: Display: Platform has ~ 64 GB [68592717824 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.03-23.07.35:738][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.03-23.07.35:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.03-23.07.35:738][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.03-23.07.35:739][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.03-23.07.35:739][  0]LogInit: Computer: DESKTOP-FC7SNQS
+[2020.05.03-23.07.35:739][  0]LogInit: User: JeremyB
+[2020.05.03-23.07.35:739][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.03-23.07.35:739][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.03-23.07.35:739][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.05.03-23.07.35:739][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.03-23.07.35:739][  0]LogMemory: Process Physical Memory: 107.45 MB used, 107.46 MB peak
+[2020.05.03-23.07.35:739][  0]LogMemory: Process Virtual Memory: 102.59 MB used, 102.59 MB peak
+[2020.05.03-23.07.35:739][  0]LogMemory: Physical Memory: 13531.88 MB used,  51883.23 MB free, 65415.11 MB total
+[2020.05.03-23.07.35:739][  0]LogMemory: Virtual Memory: 5180.77 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.05.03-23.07.35:789][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.03-23.07.35:830][  0]LogInit: Using OS detected language (en-US).
+[2020.05.03-23.07.35:830][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.03-23.07.35:832][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.03-23.07.35:991][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.03-23.07.36:037][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.03-23.07.36:037][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.03-23.07.38:780][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.03-23.07.38:780][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.03-23.07.38:780][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.03-23.07.38:781][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.03-23.07.38:878][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.03-23.07.38:878][  0]LogD3D11RHI:       8079/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.03-23.07.38:880][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.03-23.07.38:881][  0]LogD3D11RHI:       0/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.03-23.07.38:881][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.03-23.07.38:891][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.03-23.07.38:891][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.03-23.07.38:891][  0]LogWindows: EnumDisplayDevices:
+[2020.05.03-23.07.38:892][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.03-23.07.38:892][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.03-23.07.38:892][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.03-23.07.38:892][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.03-23.07.38:893][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.03-23.07.38:893][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.03-23.07.38:893][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.03-23.07.38:893][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.03-23.07.38:893][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.03-23.07.38:931][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.03-23.07.38:931][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.03-23.07.38:965][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.03-23.07.39:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.03-23.07.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.03-23.07.39:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.03-23.07.39:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.03-23.07.39:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.03-23.07.39:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.03-23.07.39:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.03-23.07.39:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.03-23.07.39:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.03-23.07.39:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.03-23.07.39:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.03-23.07.39:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.03-23.07.39:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.03-23.07.39:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.03-23.07.39:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.03-23.07.39:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.03-23.07.39:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.03-23.07.39:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.03-23.07.39:550][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.03-23.07.39:553][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.03-23.07.39:589][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (../../../../TOLWI/Intermediate/Shaders/WorkingDirectory/14824/).
+[2020.05.03-23.07.39:589][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy B/AppData/Local/Temp/UnrealShaderWorkingDir/D04343494C749A57EDF9679ACD380D95/'.
+[2020.05.03-23.07.39:589][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.03-23.07.39:589][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.03-23.07.39:589][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.03-23.07.40:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: Loaded boot cache 0.07s 108MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../TOLWI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../TOLWI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.03-23.07.40:194][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.03-23.07.40:202][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.03-23.07.40:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.03-23.07.40:202][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.03-23.07.40:204][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy B/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.03-23.07.40:204][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.03-23.07.40:204][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.03-23.07.40:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.03-23.07.40:225][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.03-23.07.40:226][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.03-23.07.40:272][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.05.03-23.07.40:516][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-23.07.40:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.03-23.07.40:664][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.03-23.07.40:664][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.03-23.07.40:664][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.03-23.07.40:664][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.03-23.07.40:686][  0]LogNetVersion: TOLWI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 138115532)
+[2020.05.03-23.07.42:717][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.130330 seconds
+[2020.05.03-23.07.42:732][  0]LogUObjectArray: 46759 objects as part of root set at end of initial load.
+[2020.05.03-23.07.42:732][  0]LogUObjectAllocator: 8148360 out of 0 bytes used by permanent object pool.
+[2020.05.03-23.07.42:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.03-23.07.43:352][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.03-23.07.43:355][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.03-23.07.44:527][  0]SourceControl: Source control is disabled
+[2020.05.03-23.07.45:352][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.03-23.07.45:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.03-23.07.45:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.03-23.07.45:440][  0]LogOcInput: OculusInput pre-init called
+[2020.05.03-23.07.45:473][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.03-23.07.45:473][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.03-23.07.45:567][  0]LogEngine: Initializing Engine...
+[2020.05.03-23.07.45:568][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.03-23.07.45:569][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.03-23.07.45:925][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.03-23.07.45:931][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.03-23.07.45:944][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.03-23.07.45:944][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.03-23.07.45:945][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.03-23.07.45:945][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.03-23.07.46:065][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.03-23.07.46:314][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.05.03-23.07.46:318][  0]LogInit: FAudioDevice initialized.
+[2020.05.03-23.07.46:318][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.03-23.07.46:554][  0]LogDerivedDataCache: Saved boot cache 0.24s 108MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.03-23.07.46:566][  0]LogInit: Texture streaming: Enabled
+[2020.05.03-23.07.46:605][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.03-23.07.46:605][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.03-23.07.46:606][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.03-23.07.46:666][  0]LogInit: Transaction tracking system initialized
+[2020.05.03-23.07.46:772][  0]BlueprintLog: New page: Editor Load
+[2020.05.03-23.07.47:048][  0]LocalizationService: Localization service is disabled
+[2020.05.03-23.07.47:820][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/' took 0.01s
+[2020.05.03-23.07.47:820][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.03-23.07.47:820][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.03-23.07.48:805][  0]Cmd: MAP LOAD FILE="../../../../TOLWI/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.03-23.07.48:843][  0]LightingResults: New page: Lighting Build
+[2020.05.03-23.07.48:843][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.03-23.07.48:843][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.03-23.07.48:843][  0]MapCheck: New page: Map Check
+[2020.05.03-23.07.48:843][  0]LightingResults: New page: Lighting Build
+[2020.05.03-23.07.48:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.05.03-23.07.48:920][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.03-23.07.48:921][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.03-23.07.48:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.05.03-23.07.48:960][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.03-23.07.48:960][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.05.03-23.07.48:960][  0]LogFileHelpers: Loading map 'MainMenu' took 0.155
+[2020.05.03-23.07.49:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-23.07.49:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-23.07.49:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-23.07.49:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-23.07.49:171][  0]LogCollectionManager: Loaded 0 collections in 0.000785 seconds
+[2020.05.03-23.07.49:185][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Saved/Collections/' took 0.00s
+[2020.05.03-23.07.49:185][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Developers/JeremyB/Collections/' took 0.00s
+[2020.05.03-23.07.49:185][  0]LogFileCache: Scanning file cache for directory 'D:/TOLWI/Content/Collections/' took 0.00s
+[2020.05.03-23.07.49:185][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3026 classes and 724 folders.
+[2020.05.03-23.07.49:188][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.03-23.07.49:438][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-23.07.49:459][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.03-23.07.49:570][  0]LogSlate: Took 0.010435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.03-23.07.49:578][  0]LogSlate: Took 0.006163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.03-23.07.49:586][  0]LogSlate: Took 0.004311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.03-23.07.49:682][  0]LogRenderer: Reallocating scene render targets to support 1348x864 Format 10 NumSamples 1 (Frame:1).
+[2020.05.03-23.07.49:801][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-23.07.49:801][  0]LogLoad: (Engine Initialization) Total time: 15.74 seconds
+[2020.05.03-23.07.49:801][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.03-23.07.49:866][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.03-23.07.50:365][  9]LogAssetRegistry: Asset discovery search completed in 10.0951 seconds
+[2020.05.03-23.07.50:368][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.05.03-23.25.13:913][143]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.03-23.25.14:055][143]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.03-23.25.14:056][143]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.03-23.25.14:120][143]LogSlate: Took 0.000534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.03-23.25.34:747][484]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.03-23.25.42:166][330]Running D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/TOLWI/TOLWI.uproject" -game -rocket -progress
+[2020.05.03-23.25.42:672][330]Discovering modules, targets and source code for project...
+[2020.05.03-23.25.44:814][330]Binding IntelliSense data...
+[2020.05.03-23.25.48:564][330]Binding IntelliSense data... 100%
+[2020.05.03-23.25.48:564][330]Writing project files...
+[2020.05.03-23.25.54:204][330]Writing project files... 100%
+[2020.05.03-23.25.54:599][330]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.05.03-23.25.54:602][330]Candidate modules for hot reload:
+[2020.05.03-23.25.54:602][330]  TOLWI
+[2020.05.03-23.25.54:602][330]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,5055 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: New page: Compilation - 4/05/2020, 11:28:16 pm
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Creating makefile for TOLWIEditor (no existing makefile)
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Reflection code generated for TOLWIEditor in 23.8520045 seconds
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [1/6] TOLWI.init.gen.cpp
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [2/6] TOLWIGameMode.cpp
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [3/6] TOLWIGameMode.gen.cpp
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [4/6] UE4Editor-TOLWI-5055.lib
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5055.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5055.exp
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [5/6] UE4Editor-TOLWI-5055.dll
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:      Creating library D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5055.suppressed.lib and object D:\TOLWI\Intermediate\Build\Win64\UE4Editor\Development\TOLWI\UE4Editor-TOLWI-5055.suppressed.exp
+[2020.05.03-23.28.16:165][330]CompilerResultsLog:   [6/6] TOLWIEditor.target
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Total time in Parallel executor: 114.14 seconds
+[2020.05.03-23.28.16:165][330]CompilerResultsLog: Total execution time: 141.47 seconds
+[2020.05.03-23.28.16:165][330]LogMainFrame: MainFrame: Module compiling took 141.567 seconds
+[2020.05.03-23.28.16:205][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.03-23.28.16:234][330]LogClass: Could not find existing class TOLWIGameMode in package /Script/TOLWI for HotReload, assuming new class
+[2020.05.03-23.28.16:242][330]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 9 classes and 3 folders.
+[2020.05.03-23.28.16:246][330]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.05.03-23.28.16:329][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.03-23.28.16:341][330]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3029 classes and 727 folders.
+[2020.05.03-23.28.16:341][330]Display: HotReload took 141.7s.
+[2020.05.03-23.28.16:343][330]Warning: HotReload operation took 141.7s.
+[2020.05.03-23.28.16:376][330]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.03-23.28.16:390][330]LogHotReload: New module detected: UE4Editor-TOLWI-5055.dll
+[2020.05.03-23.28.16:491][331]LogHotReload: Starting Hot-Reload from IDE
+[2020.05.03-23.28.16:753][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.03-23.28.16:757][331]LogContentBrowser: Native class hierarchy updated for 'TOLWI' in 0.0005 seconds. Added 9 classes and 3 folders.
+[2020.05.03-23.28.16:762][331]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.05.03-23.28.16:797][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.03-23.28.16:809][331]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3029 classes and 727 folders.
+[2020.05.03-23.28.16:812][331]Display: HotReload took  0.3s.
+[2020.05.03-23.41.28:670][989]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/CharacterSelectWidget.CharacterSelectWidget
+[2020.05.03-23.41.28:881][989]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.03-23.41.47:998][ 55]BlueprintLog: New page: Compile CharacterSelectWidget
+[2020.05.03-23.41.48:237][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.05.03-23.43.03:967][500]BlueprintLog: New page: Compile CharacterSelectWidget
+[2020.05.03-23.43.04:015][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.03-23.43.05:040][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/CharacterSelectWidget" FILE="../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset" SILENT=true
+[2020.05.03-23.43.05:070][567]LogSavePackage: Moving '../../../../TOLWI/Saved/CharacterSelectWidgetBBE66DE24954943E1596FE8470ADEF01.tmp' to '../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset'
+[2020.05.03-23.43.05:316][567]AssetCheck: New page: Asset Save: CharacterSelectWidget
+[2020.05.03-23.43.05:316][567]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/CharacterSelectWidget.CharacterSelectWidget
+[2020.05.03-23.49.08:303][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/CharacterSelectWidget" FILE="../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset" SILENT=true
+[2020.05.03-23.49.08:356][871]LogSavePackage: Moving '../../../../TOLWI/Saved/CharacterSelectWidget7B78E97549E68EE5F82C0C9B698E98AC.tmp' to '../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset'
+[2020.05.03-23.49.08:373][871]AssetCheck: New page: Asset Save: CharacterSelectWidget
+[2020.05.03-23.49.08:373][871]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/CharacterSelectWidget.CharacterSelectWidget
+[2020.05.03-23.49.37:903][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/CharacterSelectWidget" FILE="../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset" SILENT=true
+[2020.05.03-23.49.37:918][294]LogSavePackage: Moving '../../../../TOLWI/Saved/CharacterSelectWidget23976BE742ECC9C51E346B8DFB74E3BC.tmp' to '../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset'
+[2020.05.03-23.49.37:934][294]AssetCheck: New page: Asset Save: CharacterSelectWidget
+[2020.05.03-23.49.37:934][294]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/CharacterSelectWidget.CharacterSelectWidget
+[2020.05.03-23.52.54:871][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/CharacterSelectWidget" FILE="../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset" SILENT=true
+[2020.05.03-23.52.54:882][ 95]LogSavePackage: Moving '../../../../TOLWI/Saved/CharacterSelectWidget2ED311394E8A0B6231107FAA3EBB6A0A.tmp' to '../../../../TOLWI/Content/UI/Widgets/CharacterSelectWidget.uasset'
+[2020.05.03-23.52.54:895][ 95]AssetCheck: New page: Asset Save: CharacterSelectWidget
+[2020.05.03-23.52.54:895][ 95]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/CharacterSelectWidget.CharacterSelectWidget
+[2020.05.03-23.52.56:295][232]LogSlate: Window 'CharacterSelectWidget' being destroyed
+[2020.05.03-23.52.56:299][232]LogSlate: Window 'CharacterSelectWidget' being destroyed
+[2020.05.03-23.52.56:338][232]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.03-23.52.56:338][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.03-23.52.56:357][232]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.03-23.52.56:357][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.03-23.54.33:297][672]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/TOLWI.MenuWidget
+[2020.05.03-23.56.11:706][390]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/TOLWI.MainMenu
+[2020.05.04-00.31.36:423][935]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-00.37.26:193][ 70]LogSlate: Window 'MainMenuWidget' being destroyed
+[2020.05.04-00.37.26:197][ 70]LogSlate: Window 'MainMenuWidget' being destroyed
+[2020.05.04-00.37.26:200][ 70]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-00.37.26:200][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-00.37.26:208][ 70]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-00.37.26:208][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-00.37.34:625][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:625][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:626][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:626][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:628][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: Unable to load Default__WBP_ServerRow_C with outer Package /Game/MenuSystem/WBP_ServerRow because its class does not exist
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:629][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:630][ 53]LogLinker: Warning: Unable to load Default__WBP_MainMenu_C with outer Package /Game/MenuSystem/WBP_MainMenu because its class does not exist
+[2020.05.04-00.37.34:631][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:631][ 53]LogLinker: Warning: Failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:631][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:632][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:632][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.MainMenu Referenced by PackageMetaData
+[2020.05.04-00.37.34:632][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:632][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:633][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:633][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.MainMenu Referenced by WBP_MainMenu
+[2020.05.04-00.37.34:633][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:633][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:633][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_MainMenu.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:633][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.34:633][ 53]LogBlueprint: Warning: FMemberReference::ResolveMember (IsHovered) bSelfContext == true, but no scope supplied!
+[2020.05.04-00.37.34:633][ 53]LogBlueprint: Warning: FMemberReference::ResolveMember (SetColorAndOpacity) bSelfContext == true, but no scope supplied!
+[2020.05.04-00.37.34:633][ 53]LogBlueprint: Warning: FMemberReference::ResolveMember (SetColorAndOpacity) bSelfContext == true, but no scope supplied!
+[2020.05.04-00.37.34:633][ 53]LogBlueprint: Warning: FMemberReference::ResolveMember (SetColorAndOpacity) bSelfContext == true, but no scope supplied!
+[2020.05.04-00.37.34:633][ 53]LogBlueprint: Warning: FMemberReference::ResolveMember (SetColorAndOpacity) bSelfContext == true, but no scope supplied!
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.ServerRow Referenced by K2Node_VariableGet_0
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.ServerRow Referenced by K2Node_VariableGet_4
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.ServerRow Referenced by PackageMetaData
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LoadErrors: Failed to load /Script/PuzzlePlatforms.ServerRow Referenced by WBP_ServerRow
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: While loading '../../../../TOLWI/Content/MenuSystem/WBP_ServerRow.uasset' failed to load '/Script/PuzzlePlatforms': Can't find file.
+[2020.05.04-00.37.34:634][ 53]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.34:671][ 53]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu
+[2020.05.04-00.37.37:219][ 53]LogSlate: Window 'Message' being destroyed
+[2020.05.04-00.37.37:273][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'IsHeader': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.37:273][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_WBP_ServerRow': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.37:273][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_IsHovered_ReturnValue': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:ExecuteUbergraph_WBP_ServerRow
+[2020.05.04-00.37.37:273][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_Event_InDeltaTime': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:ExecuteUbergraph_WBP_ServerRow
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_Event_MyGeometry': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:ExecuteUbergraph_WBP_ServerRow
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'EntryPoint': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:ExecuteUbergraph_WBP_ServerRow
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Tick': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InDeltaTime': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:Tick
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MyGeometry': Function /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C:Tick
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UberGraphFrame': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_ServerRow.WBP_ServerRow_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WBP_ServerRow': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_4': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_2': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_1': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_0': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.37:274][ 53]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_5': WidgetBlueprintGeneratedClass /Game/MenuSystem/WBP_MainMenu.WBP_MainMenu_C
+[2020.05.04-00.37.48:430][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.05.04-00.37.50:123][346]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.04-00.37.50:346][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.05.04-00.37.50:385][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.04-00.37.50:425][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.05.04-00.37.50:461][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.04-00.38.02:709][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.04-00.38.06:281][776]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.04-00.38.06:583][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.05.04-00.38.06:623][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.04-00.38.06:658][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.04-00.38.06:690][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.04-00.38.06:729][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.04-00.38.06:764][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.04-00.38.06:806][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.04-00.38.06:844][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.04-00.38.06:881][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Fonts/Audiowide-Regular.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Fonts/Audiowide-Regular_Font.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Images/9728379504_030f0d6451_o.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Images/button.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Images/button_clicked.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Images/button_highlighted.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:067][776]SourceControl: Error: error: pathspec 'D:/TOLWI/Content/MenuSystem/Images/exit_icon.uasset' did not match any file(s) known to git
+[2020.05.04-00.38.07:273][776]SourceControl: Error: fatal: pathspec 'D:/TOLWI/Content/MenuSystem/Fonts/Audiowide-Regular.uasset' did not match any files
+[2020.05.04-00.38.07:275][776]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.05.04-00.41.15:345][183]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-00.44.08:314][227]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FHierarchyModel> > [SHierarchyView.cpp(313)].
+[2020.05.04-00.44.08:409][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.04-00.44.08:411][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.055
+[2020.05.04-00.44.08:411][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/MainMenuWidget] ([1] browsable assets)...
+[2020.05.04-00.44.08:411][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/MainMenuWidget]
+[2020.05.04-00.44.08:411][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/MainMenuWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.04-00.44.08:426][227]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidget_Auto147A91DDF4DFD3EBD246430836272DB24.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/MainMenuWidget_Auto1.uasset'
+[2020.05.04-00.44.08:427][227]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.05.04-00.54.36:584][354]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.54.37:000][363]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.54.37:493][408]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.54.45:218][283]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-00.54.45:262][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.05.04-00.54.45:757][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset" SILENT=true
+[2020.05.04-00.54.45:777][322]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidgetE59162E14A1197DFD1992B9B87022D2B.tmp' to '../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset'
+[2020.05.04-00.54.45:793][322]AssetCheck: New page: Asset Save: MainMenuWidget
+[2020.05.04-00.54.45:793][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-00.57.07:899][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.04-00.57.07:901][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.052
+[2020.05.04-00.57.07:901][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/MainMenuWidget] ([1] browsable assets)...
+[2020.05.04-00.57.07:901][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/MainMenuWidget]
+[2020.05.04-00.57.07:901][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/MainMenuWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.05.04-00.57.07:914][ 96]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidget_Auto2C56C37A1477E9B3487ED839ADF62F784.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/MainMenuWidget_Auto2.uasset'
+[2020.05.04-00.57.07:914][ 96]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.05.04-00.57.28:152][343]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.28:546][353]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.28:987][389]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.29:390][431]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.29:748][468]LogEditorTransaction: Undo Rename Widget
+[2020.05.04-00.57.30:104][499]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.30:448][533]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.30:765][560]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.31:097][595]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.31:439][630]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.31:799][664]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.32:175][704]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.32:564][745]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.32:947][786]LogEditorTransaction: Undo Rename Widget
+[2020.05.04-00.57.33:393][832]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.33:866][883]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.35:774][105]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.37:090][260]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.38:047][372]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.38:655][443]LogEditorTransaction: Undo Edit Text
+[2020.05.04-00.57.39:031][485]LogEditorTransaction: Undo Move Widget
+[2020.05.04-00.57.39:457][533]LogEditorTransaction: Undo Resize Widget
+[2020.05.04-00.57.40:046][602]LogEditorTransaction: Undo Edit Text
+[2020.05.04-00.57.40:438][646]LogEditorTransaction: Undo Rename Widget
+[2020.05.04-00.57.41:026][714]LogEditorTransaction: Undo Rename Widget
+[2020.05.04-00.57.41:416][760]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.41:628][783]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.41:825][806]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.42:013][828]LogEditorTransaction: Undo Add Widget
+[2020.05.04-00.57.46:125][311]BlueprintLog: New page: Compile MainMenuWidget
+[2020.05.04-00.57.46:171][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.04-00.57.47:310][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/MainMenuWidget" FILE="../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset" SILENT=true
+[2020.05.04-00.57.47:322][427]LogSavePackage: Moving '../../../../TOLWI/Saved/MainMenuWidgetEC2834F442FECFB8A13F28A7D0AF2C1B.tmp' to '../../../../TOLWI/Content/UI/Widgets/MainMenuWidget.uasset'
+[2020.05.04-00.57.47:336][427]AssetCheck: New page: Asset Save: MainMenuWidget
+[2020.05.04-00.57.47:336][427]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/MainMenuWidget.MainMenuWidget
+[2020.05.04-00.59.28:512][234]LogSlate: Window 'MainMenuWidget' being destroyed
+[2020.05.04-00.59.28:517][234]LogSlate: Window 'MainMenuWidget' being destroyed
+[2020.05.04-00.59.28:519][234]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-00.59.28:520][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-00.59.28:535][234]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-00.59.28:535][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-00.59.32:837][739]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.05.04-00.59.32:837][739]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.05.04-00.59.34:663][928]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.05.04-00.59.41:612][731]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.04-00.59.48:866][366]Candidate modules for hot reload:
+[2020.05.04-00.59.48:866][366]  TOLWI
+[2020.05.04-00.59.48:866][366]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,7855 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: New page: Compilation - 5/05/2020, 1:00:21 am
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Invalidating makefile for TOLWIEditor (source file added)
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Parsing headers for TOLWIEditor
+[2020.05.04-01.00.21:080][366]CompilerResultsLog:   Running UnrealHeaderTool "D:\TOLWI\TOLWI.uproject" "D:\TOLWI\Intermediate\Build\Win64\TOLWIEditor\Development\TOLWIEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Reflection code generated for TOLWIEditor in 5.2232582 seconds
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.04-01.00.21:080][366]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.04-01.00.21:081][366]CompilerResultsLog: Building 14 actions with 16 processes...
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [1/14] TOLWI.init.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [2/14] MenuInterface.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [3/14] MenuInterface.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [4/14] TOLWIGameInstance.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(29) : error C3668: 'UTOLWIGameInstance::Host': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(29): warning C4263: 'void UTOLWIGameInstance::Host(void)': member function does not override any base class virtual member function
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Host(FString)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(32) : error C3668: 'UTOLWIGameInstance::Join': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(32): warning C4263: 'void UTOLWIGameInstance::Join(const FString &)': member function does not override any base class virtual member function
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Join(uint32)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17) : error C2259: 'UTOLWIGameInstance': cannot instantiate abstract class
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: due to following members:
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::Host(FString)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::Join(uint32)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::RefreshServerList(void)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(28): note: see declaration of 'IMenuInterface::RefreshServerList'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [5/14] TOLWIGameInstance.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(29) : error C3668: 'UTOLWIGameInstance::Host': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(29): warning C4263: 'void UTOLWIGameInstance::Host(void)': member function does not override any base class virtual member function
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Host(FString)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(32) : error C3668: 'UTOLWIGameInstance::Join': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(32): warning C4263: 'void UTOLWIGameInstance::Join(const FString &)': member function does not override any base class virtual member function
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Join(uint32)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(17) : error C2259: 'UTOLWIGameInstance': cannot instantiate abstract class
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: due to following members:
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::Host(FString)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::Join(uint32)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::RefreshServerList(void)': is abstract
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(28): note: see declaration of 'IMenuInterface::RefreshServerList'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [6/14] MainMenu.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\MenuSystem\MainMenu.cpp(25) : error C2660: 'IMenuInterface::Host': function does not take 0 arguments
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   d:\tolwi\source\tolwi\menusystem\MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [7/14] ServerRow.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [8/14] ServerRow.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [9/14] MenuWidget.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [10/14] MainMenu.gen.cpp
+[2020.05.04-01.00.21:081][366]CompilerResultsLog:   [11/14] MenuWidget.cpp
+[2020.05.04-01.00.21:081][366]LogMainFrame: MainFrame: Module compiling took 32.219 seconds
+[2020.05.04-01.00.21:082][366]Warning: HotReload failed, recompile failed
+[2020.05.04-01.00.21:082][366]Warning: RebindPackages failed because compilation failed.
+[2020.05.04-01.01.46:596][366]LogSlate: Window 'Message' being destroyed
+[2020.05.04-01.01.46:603][366]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.05.04-01.01.56:557][ 78]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.05.04-01.01.56:560][ 78]Candidate modules for hot reload:
+[2020.05.04-01.01.56:560][ 78]  TOLWI
+[2020.05.04-01.01.56:560][ 78]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TOLWI,8305 Win64 Development -TargetType=Editor -Project="D:/TOLWI/TOLWI.uproject" "D:/TOLWI/TOLWI.uproject"  -IgnoreJunk]
+[2020.05.04-01.01.56:562][ 78]Warning: Starting HotReload took  0.0s.
+[2020.05.04-01.02.00:455][493]CompilerResultsLog: New page: Compilation - 5/05/2020, 1:02:00 am
+[2020.05.04-01.02.00:455][493]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\TOLWI).
+[2020.05.04-01.02.00:455][493]CompilerResultsLog: Building TOLWIEditor...
+[2020.05.04-01.02.00:455][493]CompilerResultsLog: Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.04-01.02.00:455][493]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   [1/6] TOLWIGameInstance.gen.cpp
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(29) : error C3668: 'UTOLWIGameInstance::Host': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(29): warning C4263: 'void UTOLWIGameInstance::Host(void)': member function does not override any base class virtual member function
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Host(FString)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(32) : error C3668: 'UTOLWIGameInstance::Join': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(32): warning C4263: 'void UTOLWIGameInstance::Join(const FString &)': member function does not override any base class virtual member function
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Join(uint32)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17) : error C2259: 'UTOLWIGameInstance': cannot instantiate abstract class
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: due to following members:
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::Host(FString)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::Join(uint32)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   D:\TOLWI\Source\TOLWI/TOLWIGameInstance.h(17): note: 'void IMenuInterface::RefreshServerList(void)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(28): note: see declaration of 'IMenuInterface::RefreshServerList'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   [2/6] TOLWIGameInstance.cpp
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(29) : error C3668: 'UTOLWIGameInstance::Host': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(29): warning C4263: 'void UTOLWIGameInstance::Host(void)': member function does not override any base class virtual member function
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Host(FString)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(32) : error C3668: 'UTOLWIGameInstance::Join': method with override specifier 'override' did not override any base class methods
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(32): warning C4263: 'void UTOLWIGameInstance::Join(const FString &)': member function does not override any base class virtual member function
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(41): warning C4264: 'void IMenuInterface::Join(uint32)': no override available for virtual member function from base 'IMenuInterface'; function is hidden
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(19): note: see declaration of 'IMenuInterface'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    d:\tolwi\source\tolwi\TOLWIGameInstance.h(17) : error C2259: 'UTOLWIGameInstance': cannot instantiate abstract class
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: due to following members:
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::Host(FString)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::Join(uint32)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(26): note: see declaration of 'IMenuInterface::Join'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\TOLWIGameInstance.h(17): note: 'void IMenuInterface::RefreshServerList(void)': is abstract
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   d:\tolwi\source\tolwi\MenuSystem/MenuInterface.h(28): note: see declaration of 'IMenuInterface::RefreshServerList'
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:   [3/6] MainMenu.cpp
+[2020.05.04-01.02.00:455][493]CompilerResultsLog:    D:\TOLWI\Source\TOLWI\MenuSystem\MainMenu.cpp(25) : error C2660: 'IMenuInterface::Host': function does not take 0 arguments
+[2020.05.04-01.02.00:456][493]CompilerResultsLog:   d:\tolwi\source\tolwi\menusystem\MenuInterface.h(25): note: see declaration of 'IMenuInterface::Host'
+[2020.05.04-01.02.00:456][493]LogMainFrame: MainFrame: Module compiling took 3.899 seconds
+[2020.05.04-01.02.00:456][493]Warning: HotReload failed, recompile failed
+[2020.05.04-01.02.09:623][527]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-01.02.09:627][527]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-01.02.24:714][285]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/ServerRow.ServerRow
+[2020.05.04-01.05.38:244][  3]LogSlate: Took 0.001547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.04-01.08.10:316][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.05.04-01.08.10:319][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.064
+[2020.05.04-01.08.10:319][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/CharacterSelectWidget] ([1] browsable assets)...
+[2020.05.04-01.08.10:319][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/CharacterSelectWidget]
+[2020.05.04-01.08.10:319][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/CharacterSelectWidget" FILE="../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/CharacterSelectWidget_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.05.04-01.08.10:356][784]LogSavePackage: Moving '../../../../TOLWI/Saved/CharacterSelectWidget_Auto36651E9874A112D67F67B6D82CD8182E5.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/CharacterSelectWidget_Auto3.uasset'
+[2020.05.04-01.08.10:357][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/ServerRow] ([1] browsable assets)...
+[2020.05.04-01.08.10:357][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/ServerRow]
+[2020.05.04-01.08.10:357][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/ServerRow" FILE="../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/ServerRow_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.05.04-01.08.10:371][784]LogSavePackage: Moving '../../../../TOLWI/Saved/ServerRow_Auto367194D004ACDBEF9546D729BDA478712.tmp' to '../../../../TOLWI/Saved/Autosaves/Game/UI/Widgets/ServerRow_Auto3.uasset'
+[2020.05.04-01.08.10:371][784]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.05.04-01.10.27:500][959]BlueprintLog: New page: Compile ServerRow
+[2020.05.04-01.10.27:543][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.05.04-01.10.28:221][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/ServerRow" FILE="../../../../TOLWI/Content/UI/Widgets/ServerRow.uasset" SILENT=true
+[2020.05.04-01.10.28:231][ 16]LogSavePackage: Moving '../../../../TOLWI/Saved/ServerRowD0F5341B472ECC296544B8A6613435FF.tmp' to '../../../../TOLWI/Content/UI/Widgets/ServerRow.uasset'
+[2020.05.04-01.10.28:482][ 16]AssetCheck: New page: Asset Save: ServerRow
+[2020.05.04-01.10.28:482][ 16]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/ServerRow.ServerRow
+[2020.05.04-01.12.05:948][174]LogEditorTransaction: Undo Replace Widgets
+[2020.05.04-01.12.06:509][188]LogEditorTransaction: Undo Move Widget
+[2020.05.04-01.12.06:886][230]LogEditorTransaction: Undo Move Widget
+[2020.05.04-01.12.07:325][282]LogEditorTransaction: Undo Replace Widgets
+[2020.05.04-01.12.08:083][370]LogEditorTransaction: Undo Move Widget
+[2020.05.04-01.12.26:348][553]LogEditorTransaction: Undo Remove Widget
+[2020.05.04-01.12.26:350][553]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.04-01.12.28:205][553]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.855 s
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: 
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UMGEditor/Private/WidgetBlueprintEditor.cpp] [Line: 939]
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: 
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: Stack: 
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8c7e2d889 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8c7d275ec UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8c7d66dfe UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d6331b59 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d8b94d6e UE4Editor-Engine.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d7a54ecd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d63355f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d77022ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d77273b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d7712d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d77aea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d774ec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d63325c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8f6629ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-01.12.28:205][553]LogOutputDevice: Error: [Callstack] 0x00007ff8f66603de UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d7f2568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff8d7f13221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff8f65f1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff8f666224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff8f6657b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff9431d4918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff9431c242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff9431d7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff9431bec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff964335c0d USER32.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff964335602 USER32.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff9431d8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff6687c6db0 UE4Editor.exe!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc3ec UE4Editor.exe!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff6687dc4ca UE4Editor.exe!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff6687eceae UE4Editor.exe!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff6687efcbe UE4Editor.exe!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff963cb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: [Callstack] 0x00007ff964a2ce51 ntdll.dll!UnknownFunction []
+[2020.05.04-01.12.28:206][553]LogOutputDevice: Error: 
+[2020.05.04-01.12.28:214][553]LogStats:                SubmitErrorReport -  0.000 s

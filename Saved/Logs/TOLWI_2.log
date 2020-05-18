@@ -1,0 +1,1296 @@
+﻿Log file open, 05/12/20 17:56:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TOLWI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065340
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.46
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Warning: STEAM: Steam App Id provided (0) is invalid, must be greater than 0!
+LogOnline: Warning: STEAM: Could not create/update the steam_appid.txt file! Make sure the directory is writable and there isn't another instance using this file
+LogOnline: Warning: STEAM: Could not set up the steam environment! Falling back to another OSS.
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -game
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.12-05.56.19:145][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.12-05.56.19:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.12-05.56.19:148][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.12-05.56.19:149][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.12-05.56.19:149][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.12-05.56.19:149][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.12-05.56.19:150][  0]LogHAL: Display: Platform has ~ 64 GB [68592717824 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.12-05.56.19:151][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.12-05.56.19:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TOLWI/Saved/Config/Windows/Scalability.ini]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.12-05.56.19:152][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TOLWI/Saved/Config/Windows/Engine.ini]
+[2020.05.12-05.56.19:152][  0]LogInit: Computer: DESKTOP-FC7SNQS
+[2020.05.12-05.56.19:152][  0]LogInit: User: JeremyB
+[2020.05.12-05.56.19:152][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.12-05.56.19:152][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.12-05.56.19:152][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.05.12-05.56.19:152][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.12-05.56.19:152][  0]LogMemory: Process Physical Memory: 107.37 MB used, 107.38 MB peak
+[2020.05.12-05.56.19:152][  0]LogMemory: Process Virtual Memory: 102.61 MB used, 102.61 MB peak
+[2020.05.12-05.56.19:152][  0]LogMemory: Physical Memory: 17062.95 MB used,  48352.16 MB free, 65415.11 MB total
+[2020.05.12-05.56.19:152][  0]LogMemory: Virtual Memory: 5180.77 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.05.12-05.56.19:218][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.12-05.56.19:247][  0]LogInit: Using OS detected language (en-US).
+[2020.05.12-05.56.19:247][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.12-05.56.19:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.12-05.56.19:428][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.12-05.56.19:428][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.12-05.56.19:441][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.12-05.56.19:441][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.12-05.56.19:442][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.12-05.56.19:442][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.12-05.56.19:521][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.12-05.56.19:521][  0]LogD3D11RHI:       8079/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.12-05.56.19:524][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.12-05.56.19:524][  0]LogD3D11RHI:       0/0/32707 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.12-05.56.19:524][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.12-05.56.19:539][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.12-05.56.19:539][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.12-05.56.19:540][  0]LogWindows: EnumDisplayDevices:
+[2020.05.12-05.56.19:540][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.12-05.56.19:540][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.12-05.56.19:540][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.12-05.56.19:541][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.12-05.56.19:541][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.12-05.56.19:541][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.12-05.56.19:541][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.12-05.56.19:541][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.12-05.56.19:541][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.12-05.56.19:579][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.12-05.56.19:579][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.12-05.56.19:608][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.12-05.56.19:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.12-05.56.19:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.12-05.56.19:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.12-05.56.19:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.12-05.56.19:894][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.12-05.56.19:896][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.12-05.56.19:912][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (../../../../TOLWI/Intermediate/Shaders/WorkingDirectory/14120/).
+[2020.05.12-05.56.19:912][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy B/AppData/Local/Temp/UnrealShaderWorkingDir/347248CD48E62F2A8D1E75AB87E2EF02/'.
+[2020.05.12-05.56.19:913][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.12-05.56.19:913][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.12-05.56.19:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.12-05.56.20:488][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: Loaded boot cache 0.05s 83MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../TOLWI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../TOLWI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.12-05.56.20:541][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.12-05.56.20:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.12-05.56.20:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.12-05.56.20:549][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.12-05.56.20:551][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy B/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.12-05.56.20:551][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.12-05.56.20:551][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.12-05.56.20:570][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.12-05.56.20:572][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.12-05.56.20:573][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.12-05.56.20:675][  0]LogInit: Using OS detected language (en-US).
+[2020.05.12-05.56.20:675][  0]LogInit: Using OS detected locale (en-NZ).
+[2020.05.12-05.56.20:675][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.05.12-05.56.20:675][  0]LogTextLocalizationManager: No localization for 'en-NZ' exists, so 'en' will be used for the locale.
+[2020.05.12-05.56.20:675][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.12-05.56.20:675][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.12-05.56.20:676][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.05.12-05.56.20:679][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2020.05.12-05.56.20:882][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.027040 seconds
+[2020.05.12-05.56.20:922][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.12-05.56.21:016][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.12-05.56.21:016][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.12-05.56.21:016][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.12-05.56.21:016][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.12-05.56.21:016][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.12-05.56.21:027][  0]LogNetVersion: TOLWI 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 138115532)
+[2020.05.12-05.56.21:475][  0]LogMoviePlayer: Initializing movie player
+[2020.05.12-05.56.21:693][  0]SourceControl: Source control is disabled
+[2020.05.12-05.56.21:693][  0]SourceControl: Source control is disabled
+[2020.05.12-05.56.21:694][  0]SourceControl: Source control is disabled
+[2020.05.12-05.56.21:718][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.12-05.56.21:722][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.12-05.56.21:722][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.12-05.56.21:761][  0]LogOcInput: OculusInput pre-init called
+[2020.05.12-05.56.21:771][  0]LogUObjectArray: 54054 objects as part of root set at end of initial load.
+[2020.05.12-05.56.21:771][  0]LogUObjectAllocator: 9931464 out of 0 bytes used by permanent object pool.
+[2020.05.12-05.56.21:771][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.12-05.56.21:821][  0]LogEngine: Initializing Engine...
+[2020.05.12-05.56.21:822][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.12-05.56.21:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.12-05.56.21:969][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-05.56.21:972][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-05.56.21:972][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-05.56.21:974][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-05.56.21:974][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-05.56.22:108][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-05.56.22:353][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.05.12-05.56.22:359][  0]LogInit: FAudioDevice initialized.
+[2020.05.12-05.56.22:360][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.12-05.56.22:553][  0]LogDerivedDataCache: Saved boot cache 0.19s 83MB C:/Users/Jeremy B/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.12-05.56.22:564][  0]LogInit: Texture streaming: Enabled
+[2020.05.12-05.56.22:656][  0]LogTemp: Warning: Found subsystem NULL
+[2020.05.12-05.56.22:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-05.56.22:657][  0]LogInit: Display: Game Engine Initialized.
+[2020.05.12-05.56.22:667][  0]LogInit: Display: Starting Game.
+[2020.05.12-05.56.22:667][  0]LogNet: Browse: /Game/Levels/MainMenu?Name=Player
+[2020.05.12-05.56.22:667][  0]LogLoad: LoadMap: /Game/Levels/MainMenu?Name=Player
+[2020.05.12-05.56.22:667][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.05.12-05.56.22:668][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-05.56.22:669][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-05.56.22:713][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-05.56.22:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.12-05.56.22:724][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.12-05.56.22:726][  0]LogLoad: Game class is 'TOLWIGameMode_C'
+[2020.05.12-05.56.22:727][  0]LogWorld: Bringing World /Game/Levels/MainMenu.MainMenu up for play (max tick rate 0) at 2020.05.12-17.56.22
+[2020.05.12-05.56.22:727][  0]LogWorld: Bringing up level for play took: 0.000427
+[2020.05.12-05.56.22:728][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.12-05.56.22:729][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.12-05.56.22:729][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.12-05.56.22:729][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.12-05.56.22:733][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.05.12-05.56.22:733][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.12-05.56.22:733][  0]LogLoad: Took 0.066720 seconds to LoadMap(/Game/Levels/MainMenu)
+[2020.05.12-05.56.22:753][  0]LogRenderer: Reallocating scene render targets to support 2560x1440 Format 10 NumSamples 1 (Frame:1).
+[2020.05.12-05.56.22:753][  0]LogLoad: (Engine Initialization) Total time: 4.85 seconds
+[2020.05.12-05.56.22:753][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.12-05.56.22:772][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.12-05.56.22:775][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-05.56.40:823][445]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.05.12-05.56.40:823][445]LogTemp: Warning: Starting Find Session
+[2020.05.12-05.56.40:825][445]LogInit: WinSock: I am DESKTOP-FC7SNQS (192.168.1.15:0)
+[2020.05.12-05.56.45:825][642]LogTemp: Warning: Finished Find Session
+[2020.05.12-05.56.45:825][642]LogTemp: Warning: Found session names: ECF452794742488539FA169BF8D28791
+[2020.05.12-05.56.47:525][ 48]LogTemp: Warning: Selected index not set.
+[2020.05.12-05.56.50:365][727]LogTemp: Warning: Selected index not set.
+[2020.05.12-05.56.52:307][193]LogTemp: Warning: Selected index 0.
+[2020.05.12-05.56.52:307][193]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.05.12-05.56.52:307][193]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.05.12-05.56.52:307][193]LogNet: Browse: 192.168.1.15//Game/Levels/MainMenu
+[2020.05.12-05.56.52:307][193]LogOnline: OSS: Creating online subsystem instance for: STEAM
+[2020.05.12-05.56.52:307][193]LogOnline: Warning: STEAM: Steam App Id provided (0) is invalid, must be greater than 0!
+[2020.05.12-05.56.52:307][193]LogOnline: Warning: STEAM: Could not create/update the steam_appid.txt file! Make sure the directory is writable and there isn't another instance using this file
+[2020.05.12-05.56.52:307][193]LogOnline: Warning: STEAM: Could not set up the steam environment! Falling back to another OSS.
+[2020.05.12-05.56.52:307][193]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.05.12-05.56.52:307][193]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.05.12-05.56.52:308][193]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.05.12-05.56.52:308][193]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.05.12-05.56.52:308][193]LogNet: Game client on port 7777, rate 10000
+[2020.05.12-05.56.52:309][193]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.12-05.56.52:337][201]LogHandshake: SendChallengeResponse. Timestamp: 16.530750, Cookie: 246062148246088066085113205170218034106234214113152139150212
+[2020.05.12-05.56.52:379][211]LogNetVersion: TOLWI 1.0.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2916101841)
+[2020.05.12-05.56.52:379][211]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.15:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.05.12-05.56.52:509][243]LogNet: Welcomed by server (Level: /Game/Levels/NewMap, Game: /Game/TOLWIGameMode.TOLWIGameMode_C)
+[2020.05.12-05.56.52:510][243]LogLoad: LoadMap: 192.168.1.15//Game/Levels/NewMap?game=/Game/TOLWIGameMode.TOLWIGameMode_C
+[2020.05.12-05.56.52:510][243]LogWorld: BeginTearingDown for /Game/Levels/MainMenu
+[2020.05.12-05.56.52:510][243]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-05.56.52:510][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-05.56.52:586][243]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.12-05.56.52:586][243]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.12-05.56.52:588][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.05.12-05.56.52:642][243]LogWorld: Bringing World /Game/Levels/NewMap.NewMap up for play (max tick rate 0) at 2020.05.12-17.56.52
+[2020.05.12-05.56.52:642][243]LogWorld: Bringing up level for play took: 0.001207
+[2020.05.12-05.56.52:643][243]LogLoad: Took 0.133556 seconds to LoadMap(/Game/Levels/NewMap)
+[2020.05.12-05.56.53:958][404]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.05.12-05.56.54:305][453]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.05.12-05.57.01:925][577]LogTemp: Warning: ABasicInteractive::StartInteracting called
+[2020.05.12-05.57.02:315][627]LogTemp: Warning: ABasicInteractive::StartInteracting called
+[2020.05.12-05.57.02:315][627]LogTemp: Warning: [AMechanism::StartInteracting] bIsActivated, we can't activated it again
+[2020.05.12-05.57.06:286][161]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.07:773][358]LogTemp: Warning: ABasicInteractive::StartInteracting called
+[2020.05.12-05.57.07:773][358]LogTemp: Warning: [AMechanism::StartInteracting] bIsActivated, we can't activated it again
+[2020.05.12-05.57.11:820][701]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.11:908][702]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.12:139][705]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.15:139][733]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.15:234][734]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.15:423][736]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.17:265][755]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.20:489][786]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.20:603][787]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.20:705][788]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.22:268][804]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.22:334][805]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.22:422][806]LogTemp: Warning: [ASpringPortal::HandleOverlap] GameMode NULL
+[2020.05.12-05.57.23:648][824]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:648][824]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2020.05.12-05.57.23:648][824]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2020.05.12-05.57.23:648][824]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.15:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-FC7SNQS-B70F749E43920AB41183A592BA43D027, Channels: 15, Time: 2020.05.12-05.57.23
+[2020.05.12-05.57.23:648][824]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.15:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-FC7SNQS-B70F749E43920AB41183A592BA43D027
+[2020.05.12-05.57.23:648][824]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:655][825]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:663][826]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:670][827]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:678][828]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:685][829]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:693][830]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:700][831]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:708][832]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:716][833]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:723][834]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:731][835]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:738][836]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:746][837]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:753][838]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:761][839]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:769][840]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:776][841]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:784][842]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:793][843]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:801][844]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:809][845]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:816][846]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:825][847]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:832][848]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:839][849]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:850][850]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:858][851]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:864][852]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:872][853]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:880][854]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:887][855]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:895][856]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:902][857]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:911][858]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:918][859]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:926][860]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:933][861]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:939][862]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:947][863]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:955][864]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:961][865]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:968][866]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:975][867]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:983][868]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:989][869]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.23:996][870]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:003][871]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:009][872]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:015][873]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:022][874]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:029][875]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:036][876]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:042][877]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:048][878]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:055][879]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:062][880]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:068][881]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:075][882]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:081][883]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:089][884]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:095][885]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:101][886]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:108][887]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:117][888]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:125][889]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:131][890]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:137][891]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:144][892]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:151][893]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:157][894]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:164][895]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:171][896]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:178][897]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:185][898]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:192][899]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:198][900]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:205][901]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:211][902]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:218][903]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:224][904]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:231][905]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:238][906]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:244][907]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:252][908]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:259][909]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:266][910]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:272][911]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:279][912]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:285][913]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:292][914]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:299][915]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:305][916]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:312][917]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:319][918]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:325][919]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:332][920]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:338][921]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:345][922]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:353][923]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:359][924]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:365][925]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:372][926]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:379][927]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:385][928]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:392][929]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:399][930]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:406][931]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:412][932]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:418][933]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:425][934]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:432][935]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:438][936]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:446][937]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:456][938]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:459][939]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:471][940]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:473][941]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:483][942]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:489][943]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:496][944]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:503][945]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:509][946]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:516][947]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:524][948]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:530][949]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:537][950]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:543][951]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:550][952]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:557][953]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:564][954]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:572][955]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:578][956]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:586][957]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:594][958]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:601][959]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:608][960]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:615][961]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:623][962]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:630][963]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:637][964]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:644][965]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:651][966]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:651][966]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2020.05.12-05.57.24:651][966]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2020.05.12-05.57.24:659][967]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:665][968]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:671][969]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:677][970]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:685][971]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:691][972]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:698][973]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:705][974]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:712][975]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:719][976]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:725][977]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:732][978]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:740][979]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:746][980]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:752][981]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:758][982]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:766][983]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:772][984]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:778][985]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:785][986]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:792][987]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:800][988]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:809][989]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:855][990]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:856][991]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:863][992]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:870][993]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:878][994]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:885][995]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:892][996]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:900][997]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:907][998]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:914][999]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:921][  0]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:933][  1]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:937][  2]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:943][  3]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:951][  4]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:958][  5]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:966][  6]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:972][  7]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:980][  8]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:987][  9]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.24:994][ 10]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:005][ 11]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:013][ 12]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:020][ 13]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:025][ 14]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:032][ 15]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:039][ 16]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:046][ 17]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:053][ 18]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:058][ 19]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:066][ 20]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:073][ 21]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:079][ 22]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:086][ 23]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:092][ 24]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:099][ 25]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:106][ 26]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:112][ 27]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:119][ 28]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:127][ 29]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:135][ 30]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:142][ 31]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:148][ 32]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:155][ 33]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:161][ 34]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:169][ 35]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:175][ 36]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:182][ 37]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:190][ 38]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:196][ 39]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:202][ 40]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:209][ 41]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:216][ 42]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:222][ 43]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:229][ 44]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:236][ 45]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:242][ 46]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:250][ 47]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:256][ 48]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:264][ 49]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:272][ 50]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:278][ 51]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:285][ 52]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:291][ 53]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:298][ 54]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:306][ 55]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:312][ 56]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:320][ 57]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:326][ 58]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:334][ 59]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:340][ 60]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:347][ 61]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:354][ 62]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:360][ 63]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:368][ 64]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:374][ 65]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:381][ 66]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:389][ 67]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:395][ 68]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:402][ 69]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:408][ 70]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:415][ 71]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:422][ 72]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:428][ 73]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:436][ 74]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:442][ 75]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:449][ 76]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:457][ 77]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:465][ 78]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:473][ 79]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:478][ 80]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:485][ 81]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:491][ 82]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:499][ 83]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:506][ 84]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:513][ 85]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:519][ 86]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:525][ 87]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:533][ 88]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:539][ 89]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:547][ 90]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:553][ 91]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:559][ 92]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:567][ 93]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:573][ 94]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:580][ 95]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:588][ 96]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:594][ 97]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:602][ 98]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:609][ 99]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:616][100]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:622][101]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:629][102]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:636][103]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:643][104]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:650][105]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:657][106]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:657][106]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2020.05.12-05.57.25:657][106]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2020.05.12-05.57.25:664][107]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:670][108]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:677][109]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:684][110]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:691][111]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:698][112]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:706][113]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:711][114]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:718][115]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:726][116]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:732][117]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:738][118]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:745][119]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:752][120]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:758][121]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:766][122]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:772][123]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:779][124]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:786][125]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:794][126]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:802][127]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:808][128]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:815][129]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:823][130]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:829][131]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:836][132]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:842][133]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:850][134]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:856][135]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:863][136]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:871][137]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:876][138]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:884][139]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:891][140]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:895][141]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:903][142]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:909][143]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:918][144]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:926][145]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:933][146]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:941][147]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:947][148]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:953][149]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:960][150]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:967][151]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:974][152]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:981][153]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:987][154]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.25:994][155]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:001][156]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:008][157]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:019][158]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:027][159]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:033][160]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:040][161]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:047][162]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:054][163]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:060][164]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:068][165]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:074][166]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:081][167]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:089][168]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:095][169]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:102][170]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:109][171]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:118][172]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:128][173]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:135][174]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:141][175]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:148][176]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:155][177]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:161][178]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:168][179]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:175][180]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:182][181]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:190][182]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:196][183]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:202][184]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:209][185]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:217][186]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:225][187]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:231][188]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:237][189]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:244][190]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:251][191]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:258][192]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:266][193]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:274][194]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:281][195]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:286][196]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:293][197]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:300][198]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:307][199]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:314][200]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:322][201]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:328][202]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:334][203]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:341][204]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:348][205]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:356][206]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:362][207]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:368][208]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:375][209]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:382][210]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:390][211]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:395][212]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:403][213]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:409][214]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:416][215]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:424][216]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:430][217]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:438][218]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:444][219]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:451][220]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:458][221]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:467][222]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:475][223]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:482][224]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:488][225]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:496][226]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:502][227]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:510][228]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:518][229]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:525][230]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:533][231]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:539][232]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:546][233]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:554][234]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:559][235]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:566][236]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:574][237]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2020.05.12-05.57.26:594][238]LogSlate: Window 'TOLWI (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.05.12-05.57.26:595][238]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.12-05.57.26:597][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-05.57.26:597][238]LogEngine: All Windows Closed
+[2020.05.12-05.57.26:597][238]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.05.12-05.57.26:597][238]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.05.12-05.57.26:597][239]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.12-05.57.26:598][239]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-05.57.26:605][239]LogInit: Display: PreExit Game.
+[2020.05.12-05.57.26:646][239]LogWorld: BeginTearingDown for /Game/Levels/NewMap
+[2020.05.12-05.57.26:646][239]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.05.12-05.57.26:646][239]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.05.12-05.57.26:646][239]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.05.12-05.57.26:646][239]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-05.57.26:647][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-05.57.26:867][239]LogExit: Preparing to exit.
+[2020.05.12-05.57.26:867][239]LogMoviePlayer: Shutting down movie player
+[2020.05.12-05.57.26:880][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-05.57.26:884][239]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.12-05.57.26:884][239]LogExit: Game engine shut down
+[2020.05.12-05.57.26:946][239]LogExit: Object subsystem successfully closed.
+[2020.05.12-05.57.26:964][239]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (440)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module SequenceRecorder (438)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module AutomationController (436)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module AutomationWorker (434)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module Voice (432)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module OculusMR (422)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (420)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (418)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module WebMMedia (416)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (414)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (412)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (410)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (408)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (406)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module CharacterAI (404)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module SessionServices (402)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (400)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module LiveCoding (398)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module LevelSequence (396)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (394)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module MovieScene (392)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (390)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2020.05.12-05.57.26:976][239]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2020.05.12-05.57.26:977][239]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2020.05.12-05.57.26:977][239]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (382)
+[2020.05.12-05.57.26:977][239]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (380)
+[2020.05.12-05.57.26:979][239]LogModuleManager: Shutting down and abandoning module ProfilerService (378)
+[2020.05.12-05.57.27:157][239]LogModuleManager: Shutting down and abandoning module TaskGraph (376)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (374)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module OculusInput (372)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (370)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module EditableMesh (368)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (361)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AssetTags (358)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AndroidPermission (350)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (340)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (338)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (336)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (334)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (333)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module GeometryCache (330)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (329)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module BackChannel (326)
+[2020.05.12-05.57.27:158][239]LogModuleManager: Shutting down and abandoning module AutomationUtils (324)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module HotReload (321)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (320)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module SourceControl (309)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module TOLWI (302)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.05.12-05.57.27:159][239]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (284)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (282)
+[2020.05.12-05.57.27:160][239]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (280)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (278)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (276)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (272)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2020.05.12-05.57.27:160][239]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (266)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module MagicLeapAR (264)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module AugmentedReality (263)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (260)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.05.12-05.57.27:160][239]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.12-05.57.27:161][239]LogModuleManager: Shutting down and abandoning module AnimationSharing (252)
+[2020.05.12-05.57.27:161][239]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2020.05.12-05.57.27:161][239]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.12-05.57.27:161][239]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.12-05.57.27:164][239]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (242)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (236)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module SlateCore (200)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (198)
+[2020.05.12-05.57.27:165][239]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2020.05.12-05.57.27:166][239]LogModuleManager: Shutting down and abandoning module UnrealEd (194)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MRMesh (192)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module Messaging (190)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (188)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (186)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module XAudio2 (184)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module Networking (182)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module Core (180)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MovieSceneTools (178)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (171)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (169)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (167)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (156)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (154)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2020.05.12-05.57.27:167][239]LogDerivedDataCache: Shutdown
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2020.05.12-05.57.27:167][239]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (117)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (115)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (113)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (111)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module PhysXCooking (104)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module ChaosSolvers (102)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (101)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module Chaos (98)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (96)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (95)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.05.12-05.57.27:168][239]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.05.12-05.57.27:168][239]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.05.12-05.57.27:169][239]LogModuleManager: Shutting down and abandoning module SteamShared (70)
+[2020.05.12-05.57.27:169][239]LogSteamShared: Freeing the Steam Loaded Modules...
+[2020.05.12-05.57.27:169][239]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.12-05.57.27:169][239]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.12-05.57.27:173][239]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.12-05.57.27:205][239]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.12-05.57.27:207][239]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.12-05.57.27:209][239]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.12-05.57.27:210][239]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.12-05.57.27:210][239]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.12-05.57.27:211][239]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.12-05.57.27:212][239]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.12-05.57.27:214][239]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.12-05.57.27:215][239]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.12-05.57.27:215][239]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.12-05.57.27:215][239]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.12-05.57.27:216][239]LogD3D11RHI: Shutdown
+[2020.05.12-05.57.27:216][239]LogD3D11RHI: CleanupD3DDevice
+[2020.05.12-05.57.27:240][239]LogExit: Exiting.
+[2020.05.12-05.57.27:252][239]Log file closed, 05/12/20 17:57:27
