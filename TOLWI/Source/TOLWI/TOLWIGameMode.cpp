@@ -1,24 +1,22 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+#include "TOLWI.h"
 #include "TOLWIGameMode.h"
 #include "TOLWIGameInstance.h"
 #include "TOLWIGameState.h"
 #include "TOLWIPlayerController.h"
 #include "BasicInteractive.h"
+#include "TOLWIPlayerState.h"
 #include "UObject/ConstructorHelpers.h"
-
 #include "Kismet/GameplayStatics.h"
 
 ATOLWIGameMode::ATOLWIGameMode()
 {
-	static ConstructorHelpers::FClassFinder<APawn> Player1PawnOb(TEXT("/Game/Characters/BigCharacter"));
-	if (Player1PawnOb.Class != NULL)
-	{
-		DefaultPawnClass = Player1PawnOb.Class;
-	}
 
-	
+	PlayerControllerClass = ATOLWIPlayerController::StaticClass();
+	PlayerStateClass = APlayerState::StaticClass();
+
+
 }
 
 
@@ -28,7 +26,60 @@ void ATOLWIGameMode::BeginPlay()
 	Super::BeginPlay();
 
 	GetInteractivesInLevel();
+
+
 }
+
+void ATOLWIGameMode::PostLogin(APlayerController * newPlayer)
+{
+	Super::PostLogin(newPlayer);
+	
+	bool isBigChar = false;
+	bool isSmallChar = false;
+
+	for (FConstPlayerControllerIterator iter = GetWorld()->GetPlayerControllerIterator(); iter; ++iter)
+	{
+		APlayerController* playerController = iter->Get();
+		ATOLWIPlayerState* countPlayerState = Cast<ATOLWIPlayerState>(playerController->PlayerState);
+
+		if (countPlayerState != nullptr)
+		{
+			switch (countPlayerState->GetCharNum())
+			{
+			case 1:
+				isBigChar = true;
+				break;
+			case 2:
+				isSmallChar = true;
+				break;
+			}
+	}
+			
+	}
+	if (!isBigChar)
+	{
+		ATOLWIPlayerState* countPlayerState = Cast<ATOLWIPlayerState>(newPlayer->PlayerState);
+		if (countPlayerState != nullptr)
+		{
+			countPlayerState->SetCharacters(1);
+			
+		}
+	}
+	else if (!isSmallChar)
+	{
+		ATOLWIPlayerState* countPlayerState = Cast<ATOLWIPlayerState>(newPlayer->PlayerState);
+		if (countPlayerState != nullptr)
+		{
+			countPlayerState->SetCharacters(2);
+			
+		}
+		
+	}
+	
+}
+
+
+
 
 void ATOLWIGameMode::GetInteractivesInLevel()
 {
@@ -61,6 +112,8 @@ ABasicInteractive * ATOLWIGameMode::FindInteractiveById(const FName & ID) const
 
 	return nullptr;
 }
+
+
 
 void ATOLWIGameMode::CompletedSpringLevel(APawn * InstigatorPawn, bool bSuccess)
 {

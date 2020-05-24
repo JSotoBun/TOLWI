@@ -25,6 +25,7 @@ protected:
 
 	void DoActivatedAction();
 
+	// Event only implemented on a blueprint
 	UFUNCTION(BlueprintImplementableEvent)
 		void onMechanismActivatedEvent();
 
