@@ -4,11 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "Interact.h"
+#include "BasicInteractiveSmall.h"
 #include "GameFramework/Character.h"
 #include "SmallCharacter.generated.h"
 
 UCLASS()
-class TOLWI_API ASmallCharacter : public ACharacter
+class TOLWI_API ASmallCharacter : public ACharacter, public IInteract
 {
 	GENERATED_BODY()
 		/** Camera boom positioning the camera behind the character */
@@ -50,6 +51,7 @@ protected:
 	 */
 	void LookUpAtRate(float Rate);
 
+	void HandleInteractInput();
 
 protected:
 	// APawn interface
@@ -62,4 +64,15 @@ public:
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
 
+public:
+
+	//// INTERFACE IInteract IMPLEMENTATION ////////////////////
+	virtual void NotifyInInteractRange(AActor* Interactive) override;
+
+	virtual void NotifyLeaveInteractRange(AActor* Interactive) override;
+
+	
+protected:
+
+	class ABasicInteractiveSmall* CurrentInteractive;
 };

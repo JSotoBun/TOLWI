@@ -41,7 +41,6 @@ public:
 
 protected:
 
-	class ASmallCharacter* SmallCharacterOverlapping = nullptr;
 	class ABigCharacter*	BigCharacterOverlapping = nullptr;
 protected:
 

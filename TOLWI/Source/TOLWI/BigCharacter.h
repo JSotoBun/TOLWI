@@ -70,6 +70,7 @@ public:
 
 	virtual void NotifyLeaveInteractRange(AActor* Interactive) override;
 	
+	
 protected:
 
 	class ABasicInteractive* CurrentInteractive;

@@ -90,6 +90,15 @@ void ASmallCharacter::LookUpAtRate(float Rate)
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
+void ASmallCharacter::HandleInteractInput()
+{
+	if (IsLocallyControlled() && (CurrentInteractive != nullptr))
+	{
+
+		CurrentInteractive->StartInteracting(this);
+	}
+}
+
 // Called to bind functionality to input
 void ASmallCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
@@ -110,4 +119,30 @@ void ASmallCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInp
 	PlayerInputComponent->BindAxis("LookUpRate", this, &ASmallCharacter::LookUpAtRate);
 
 }
+
+void ASmallCharacter::NotifyInInteractRange(AActor * Interactive)
+{
+	if (IsLocallyControlled())
+	{
+		// Keeps the Interactive reference
+		if ((Interactive != nullptr) && (CurrentInteractive == nullptr))
+		{
+			CurrentInteractive = Cast<ABasicInteractiveSmall>(Interactive);
+		}
+	}
+}
+
+void ASmallCharacter::NotifyLeaveInteractRange(AActor * Interactive)
+{
+	if (IsLocallyControlled())
+	{
+		// Release the Interactive reference
+		if (CurrentInteractive != nullptr)
+		{
+			CurrentInteractive = nullptr;
+		}
+	}
+}
+
+
 

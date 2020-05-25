@@ -26,12 +26,13 @@ public:
 
 	
 	class ABasicInteractive* FindInteractiveById(const FName& ID) const;
+	class ABasicInteractiveSmall* FindSmallInteractiveById(const FName& ID) const;
 	
 
 protected:
 
 	virtual void BeginPlay() override;
-	virtual void PostLogin(APlayerController* newPlayer) override;
+	//virtual void PostLogin(APlayerController* newPlayer) override;
 	TSubclassOf<APawn> Player1PawnObClass;
 	TSubclassOf<APawn> Player2PawnObClass;
 	
@@ -44,9 +45,12 @@ private:
 
 	// List of interactives in the current level
 	TArray<class ABasicInteractive*> InteractiveInLevelList;
+	TArray<class ABasicInteractiveSmall*> SmallInteractiveInLevelList;
 
 private:
 	void GetInteractivesInLevel();
+	void GetSmallInteractivesInLevel();
+
 public:
 
 	void CompletedSpringLevel(APawn* InstigatorPawn, bool bSuccess);

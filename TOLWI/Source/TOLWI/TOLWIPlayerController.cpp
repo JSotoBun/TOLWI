@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "TOLWI.h"
 #include "TOLWIPlayerController.h"
+#include "TOLWI.h"
 #include "TOLWIGameMode.h"
 
 void ATOLWIPlayerController::IsBigCharacter()

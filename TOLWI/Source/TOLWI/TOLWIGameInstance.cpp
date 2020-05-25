@@ -123,7 +123,7 @@ void UTOLWIGameInstance::OnCreateSessionComplete(FName SessionName, bool Success
 	UWorld* World = GetWorld();
 	if (!ensure(World != nullptr)) return;
 
-	World->ServerTravel("/Game/Levels/NewMap?listen");
+	World->ServerTravel("/Game/Levels/Spring?listen");
 }
 
 void UTOLWIGameInstance::RefreshServerList()

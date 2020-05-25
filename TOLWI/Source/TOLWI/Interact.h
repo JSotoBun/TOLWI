@@ -28,4 +28,10 @@ public:
 
 	// Notifies an Actor that the interactive is not range
 	virtual void NotifyLeaveInteractRange(AActor* Interactive) = 0;
+
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "Interface")
+	bool bDoInteract();
+
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "Interface")
+	void DoInteract();
 };

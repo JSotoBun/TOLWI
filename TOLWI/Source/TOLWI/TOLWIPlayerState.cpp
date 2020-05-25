@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "TOLWI.h"
 #include "TOLWIPlayerState.h"
+#include "TOLWI.h"
 #include "Net/UnrealNetwork.h"
 
 ATOLWIPlayerState::ATOLWIPlayerState()
