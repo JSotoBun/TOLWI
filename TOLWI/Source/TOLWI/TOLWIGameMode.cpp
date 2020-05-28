@@ -19,12 +19,14 @@ ATOLWIGameMode::ATOLWIGameMode()
 
 	PlayerControllerClass = ATOLWIPlayerController::StaticClass();
 	PlayerStateClass = APlayerState::StaticClass();
-
+	/*
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/Characters/BP_BigCharacter"));
 	if (PlayerPawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
+	*/
+	
 }
 
 

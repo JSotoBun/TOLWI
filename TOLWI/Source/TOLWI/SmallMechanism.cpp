@@ -2,7 +2,7 @@
 
 
 #include "SmallMechanism.h"
-#include "UnrealNetwork.h"
+#include "Net/UnrealNetwork.h"
 
 void ASmallMechanism::StartInteracting(APawn * PawnInstigator)
 {
@@ -15,7 +15,7 @@ void ASmallMechanism::StartInteracting(APawn * PawnInstigator)
 	else
 	{
 		// Check my role, if I am not the server-client call the server
-		if (Role < ROLE_Authority)
+		if (GetLocalRole() < ROLE_Authority)
 		{
 			ServerDoActivatedAction();
 		}

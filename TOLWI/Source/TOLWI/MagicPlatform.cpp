@@ -2,7 +2,7 @@
 
 
 #include "MagicPlatform.h"
-#include "UnrealNetwork.h"
+#include "Net/UnrealNetwork.h"
 
 
 AMagicPlatform::AMagicPlatform()
@@ -61,7 +61,7 @@ void AMagicPlatform::SendSignalToInteractive()
 		UE_LOG(LogTemp, Warning, TEXT("[ADoor::SendSignalToInteractive] !bIsOpen"));
 
 		// We need to check if we are server or not
-		if (Role < ROLE_Authority)
+		if (GetLocalRole() < ROLE_Authority)
 		{
 			ServerDoActivatedAction();
 		}
